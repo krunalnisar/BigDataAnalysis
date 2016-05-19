@@ -1,0 +1,8 @@
+software-sources	235	Jorge Castro
+launcher	72216	Jacob Vlijm
+chromium	241580	saiarcot895
+drivers	167850	Pilot6
+installation	59676	Mitch
+apt	367165	A.B.
+repository	158442	muru
+12.04	58612	izx

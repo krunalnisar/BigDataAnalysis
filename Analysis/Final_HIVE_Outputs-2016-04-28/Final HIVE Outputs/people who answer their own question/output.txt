@@ -1,0 +1,70 @@
+108108,Setup DNS server for local network (with DHCP) for use with apache
+70219,Xinerama with hardware acceleration at the same time
+106913,Installation errors on all installs after installing an i386 package on a 64 bit system
+32413,How do I fix my installation of ATI Catalyst Video Driver in 12.04 LTS?
+107322,Ubuntu 12.10 - Graphics driver shows Gallium 0.4 instead of intel HD
+108851,After login I only get a terminal window
+8806,Desktop forgets theme?
+40212,How to detect flash process in Google Chrome?
+16374,Wrong/corrupted icon in dash
+101774,Default groups for user in Ubuntu?
+92976,Is 12.10 ready from prime time?
+108649,disks not ready in array causes mdadm to force initramfs shell
+19753,Which browser (if any) will be able to play video and audio at VKontakte (vk.com) in Ubuntu without a flash plugin?
+92802,Ip Tunneling Driver
+52599,How do I type text on top of a PDF?
+47206,Improve GUI appearance of Wine applications
+41823,Booting from USB and mounting a HDD is resulting in strange partitions
+109396,toshiba portege 3480ct
+33639,How do I set Ubuntu Bold Font as the window titlebar font?
+109484,How do I open weblinks with Firefox not Gedit?
+33598,Run command in new gnome-terminal and .bashrc
+7146,How to play back multiple videos stopping after each one?
+109511,Resize Ubuntu 10.04 VirtualBox VM virtual disk
+9072,"Why can't Ubuntu find an ext3 filesystem on my hard-drive?"
+44179,12.10 on Elitebook 8560w w/ WUBI
+2345,What is a good Foxit reader equivalent (or other PDF editor)?
+84845,how to start LXDE session automatically after tightvncserver starts to make me able see desktop when connecting to the host via vncclient?
+73328,Fan running continously on HP Pavillion G6 notebook with 12.04.1 LTS help please?
+67724,Install 12.10 on Macbook 61
+63482,"After upgrading to 12.10 Empathy displays 'network error' when connecting to Google Talk"
+55128,No icon with Skype 4.1 in Ubuntu 12.04
+109620,Searching for printer/scanner canon pixma mp230 (32bit) ubuntu 12.04 drivers and how to install
+19490,How to sync loved songs on last.fm with songs in Rhythmbox?
+110010,How to move over from init.d to upstart for nginx
+94669,Someone tell me why people writing GNU code use { like that?
+94669,installing apache2 php5 mysql phpmyadmin
+109159,How to enable Apache Solr service on Rackspace Ubuntu Server?
+47206,Recover Wine menus in Lubuntu 12.04
+76271,issue with vmd install not working any more. lubuntu 12.10
+37036,How to hide whitespace indicators in Vim
+6952,Nautilus crashes after Ubuntu Tweak Package Cleaner
+61821,"""Partition Misaligned by 1024 bytes"" on encrypted lvm"
+6232,How can I send VBoxHeadless to the background so I can close the Terminal?
+36661,How do I install the btrfs-restore utility on 12.04?
+98175,weather-indicator: networking error: HTTP Error 403: Forbidden?
+17041,"Gnome app indicator area shows ""No Indicators"""
+1879,Lock Tmux Session With Vlock
+15058,How do I get a Canon PIXMA MX350 printer working?
+8851,Access Officejet Pro L7590 memory card reader
+25454,Courier-imap with sendmail setup: why is my IMAP inbox empty?
+92095,Setting Up No-Ip on a Ubuntu server 12.04?
+109969,Drivers for wifi card Atheros AR928X - Find and install
+110157,Dual monitor error on single monitor setup
+8137,No GLX on Intel card with multiseat with additional nVidia card
+47206,Create .desktop file as shorcut to a folder in Lubuntu LXDE
+1859,How can I make NetworkManager ignore my wireless card?
+93125,Problems with Software Sources -- I tried to add a Repository and it failed. How do I fix it?
+93125,How do you keep Unity Panel while using Cairo-Dock on 12.10?
+8910,Flash is not working in Chrome (Crossover Linux is installed)
+2399,Stuck in screen saver during upgrade
+6564,How to fix sound in wolfenstein Enemy Territory
+60427,Lower casing and truncating a variable in a shell script
+109522,Ubuntu consumes battery and warms laptop
+6564,How to fix Ctrl and Shift problems in games?
+110813,Videos with Lubuntu and Libreoffice
+25165,Ubuntu 12.10 - how to set the resolution to 1024x768 and correct rate? using command line when ever system starts
+47206,How to use freedict dictionaries?
+83572,Use command line to add application to gnome classic panel?
+107590,Resolution Resets After Every Reboot
+20856,CDC_ACM not firing

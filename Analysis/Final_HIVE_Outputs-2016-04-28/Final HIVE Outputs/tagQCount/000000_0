@@ -1,0 +1,2609 @@
+.desktop,191,How can I edit/create new launcher items in Unity by hand?
+.htaccess,13,Is this a correct way to enable htaccess in Apache 2.4.7 on Ubuntu 12.04
+.profile,44,Why ~/.bash_profile is not getting sourced when opening a terminal?
+.sh,3,Not executing programs (*.sh ) with double click in 13.04
+.ttf,2,Can I override fonts installed by ttf-mscorefonts-installer prefer Liberation fonts?
+10.04,23,How to find zombie process?
+10.10,61,How do I download a YouTube video?
+11.04,25,how to stop apache2 mysql from starting automatically as computer starts?
+11.10,28,How can I change/convert a  Ubuntu MBR drive to a GPT and make Ubuntu boot from EFI?
+12.04,26,How to keep apache and mysql from starting automatically
+12.04.5,1,Unable to Install 14.1 on Dell Studio 1747 Laptop Intel i7 10GB RAM - Kernel error BUG: Soft Lockup
+12.10,42,"VirtualBox '/etc/init.d/vboxdrv setup' issue"
+13.04,25,Permanent xmodmap in Ubuntu 13.04
+13.10,28,Unable to use IntelliJ IDEA keyboard shortcuts on Ubuntu
+14.04,89,Screen Resolution Problem with Ubuntu 14.04 and VirtualBox
+14.10,33,Ubuntu 14.10 does not install in virtualbox
+15.04,37,Problem with installing Steam on Ubuntu 15.04
+15.10,13,google-chrome-stable keeps asking if it should be set to default
+16.04,1,Building Vulkan Chopper demo on ubuntu
+2d,8,What 2D/3D engines and game SDKs are available?
+32-bit,43,What are the differences between 32-bit and 64-bit and which should I choose?
+3d,11,How to perform a detailed and quick 3D performance test
+3g,10,3G USB Modem Not Working in 12.04
+4g,2,Unable to create Hotspot with internet connection for iPod 4G?
+4k-monitor,2,Ubuntu logo flickering on shut down - Ubuntu 15.04 XPS 13
+64-bit,43,What are the differences between 32-bit and 64-bit and which should I choose?
+7.10,1,Can I do a release update on Ubuntu 7.10?
+7zip,16,How can I uncompress a *.7z file?
+8.04,4,Using up arrow to run previous command
+8.10,1,How to log boot messages?
+9.04,3,How do I stop the speaker from unmuting after wake-up?
+9.10,19,How to remove Postgres from my installation?
+a2dp,4,Pulse Audio Bluetooth card profile not displaying on Ubuntu 12.10
+aac,8,Batch extract audio with avconv without transcoding
+abcde,3,How do I mount a .cue/.wav
+ac3,2,Problem with 5.1 AC-3 through Alsa Pulseaudio on SPDIF Ubuntu 14.04
+accessibility,9,Default screen magnifier?
+accomplishments,1,What is the Ubuntu Accomplishments project?
+accounts,7,How do I disable remote SSH login as root from a server?
+acer,24,"How do I fix a ""Wireless is disabled by hardware switch"" error?"
+acl,3,Allow a LXC container user to write as an external user to a mounted directory
+acpi,17,"What does the kernel boot parameter ""set acpi_osi=Linux"" do?"
+active-directory,8,How can I add Ubuntu to a windows domain?
+activities-overview,6,No recent files in GNOME Shell
+adapter,4,How to check if the AC laptop adapter is plugged or not?
+adb,14,How to configure ADB access for Android devices?
+adblock,1,How to install Adblock Plus on Firefox in Ubuntu 14.04
+add-apt-repository,45,How can I get a list of all repositories and PPAs from the command line into an install script?
+add-on,5,How to integrate KeePass and Chrome/Chromium using ChromIPass?
+additional-drivers,1,Getting GeForce GTX960 to work with Ubuntu
+address-book,4,How to integrate google adressbook into contacts?
+adduser,36,What is the difference between adduser and useradd?
+adhoc,7,How do I create a non-adhoc wifi hotspot?
+administration,22,"How are administrators supposed to read root's mail?"
+administrator,42,Why is it bad to login as root?
+adobe,3,How do I switch Flash players?
+adobe-acrobat,2,Install Adobe Acrobat XI with wine
+adobe-air,72,How can I install Adobe AIR?
+adobe-reader,27,How do I install Adobe Acrobat Reader deb package downloaded from Adobe website?
+adt,13,Comprehensive guide to setup android sdk with eclipse on Ubuntu 14.04 LTS 64 bit
+afs,1,How can I mount an AFS filesystem?
+ahci,3,Very slow copying Ubuntu 12.10 AHCI
+aif,2,How to convert .aif audio files to mp3?
+aircrack-ng,5,"Can't install aircrack-ng"
+airplane-mode,2,Any way to configure SIM unlock after leaving flight mode?
+airplay,2,Airplay sink no longer visible in pulseaudio
+akonadi,1,Akonadi and Kmail using 100% CPU
+alacarte,5,How do I edit the menu in Lubuntu?
+alcatel,3,ALCATEL Modem compatibility on UB 12.04
+alfa-wireless,1,"Can't make AWUS036H work in Ubuntu 12.10"
+alias,41,How do I create a permanent Bash alias?
+alien,4,Installing Maya on Ubuntu Linux
+alienware,3,Alienware m14x r2 Drivers?
+alps,3,Detect touchpad as touchpad
+alsa,42,Is there any Sound enhancers/equalizer?
+alt,10,Using ALT + Keycode for accents?
+alternate,4,"""The volume boot has only 0 bytes disk space remaining"""
+alternative,31,Microsoft OneNote alternative?
+amarok,4,Music player that supports multiple genres
+amavisd-new,1,"How to fix amvavis reporting ""permission denied"" for clamav"
+amazon,2,Amazon instant video 14.04.1 LTS
+amazon-ec2,55,Adding SSH Keys to authorized_keys
+amazon-mp3-downloader,4,How do I import Amazon MP3s with Banshee and the new Amazon Cloud Player?
+ambiance,8,Change default right click menu color from white to black?
+amd-processor,4,No ACPI support for my PC what can I do?
+amixer,1,control volume using python script
+anacron,3,How can I run anacron in user mode?
+android,84,Complete Installation Guide for Android SDK / ADT Bundle on Ubuntu
+android-sdk,4,KVM is not installed on this machine (/dev/kvm is missing)
+android-studio,10,Where to unpack the android studio file?
+animations,14,How to disable all Unity animations?
+anjuta,2,Bazaar plugin for Anjuta
+anki,1,Using latex in Anki
+annotation,51,How can I highlight or annotate PDFs?
+ansi,12,Saving output of a grep into a file with colors
+antialiasing,8,IntelliJ Bad Font Rendering
+antivirus,47,"Do I need to have 'antivirus software' installed?"
+ap-hotspot,2,Broadcom BCM43142 WiFi drivers with AP mode to create hotspot for android devices
+apache-ant,1,how to install ANT in ubuntu 14.04
+apache2,95,"Could not reliably determine the server's fully qualified domain name?"
+apache2.4,7,Why Apache virtual hosts on Ubuntu 14.04 is not working?
+apic,5,What do the different Boot Options mean? (i.e. acpi=off noapic nolapic etc)
+apparmor,23,What is apparmor?
+appearance,59,How do I create a desktop wallpaper slideshow?
+appindicator,4,How do I create a working indicator with Qt/C++?
+apple,7,How do I get the Apple Wireless Keyboard Working in 10.10?
+apple-keyboard,3,How to achieve Mac-like use of CTRL and CMD keys on Apple Keyboard?
+applet,30,Last upgrade crashes network manager (no internet connection no applet)
+application-development,60,What is the best way to develop apps for Ubuntu?
+application-finder,2,"ALT-F3 ALT-F2 doesn't show important applications and files. How to index Xfce/Xubuntu Settings Manager in xfce4-appfinder?"
+application-submission,34,How to get my software into Ubuntu?
+application-switcher,35,How do I revert Alt-tab behavior to switch between windows on the current workspace?
+applications-lens,23,How to remove icons/shortcuts from Unity menu?
+appmenu,40,How do I enable or disable the global application menu?
+apport,56,How do I enable or disable Apport?
+apt,385,How to list all installed packages?
+apt-cache,10,var/cache/apt/archives occupying huge space
+apt-cacher,2,Difference between apt-cacher and apt-cacher-ng
+apt-cacher-ng,4,How to prevent apt-get/aptitude keeping a cache
+apt-fast,2,apt-fast for ubuntu 14.04?
+apt-listchanges,1,How can I get persistent output from apt-listchanges without intervention?
+apt-mirror,10,How do I change mirrors in Ubuntu Server from regional to main?
+aptana-studio,4,how do I install Aptana Studio 3 in Ubuntu 14.04 LTS?
+apticron,1,"Why doesn't apticron ever send me emails?"
+aptitude,44,Is aptitude still considered superior to apt-get?
+aptoncd,2,How to add a mounted iso to software packages?
+apturl,1,Error with apturl in Ubuntu
+aquaris,3,Unistalled apps still taking space on Ubuntu Touch
+arabic,5,How to enable Arabic support in GNOME terminal?
+architecture,21,Difference between the i386 download and the amd64?
+archive,25,How can I see all versions of a package that are available in the archive?
+ardour,4,No more sound after running Ardour
+arduino,4,Changing permissions on serial port
+arista-transcoder,2,Arista Transcoder Not Working
+ark,1,"What command is run when I select ""Extract Archive Here..."" in Kubuntu?"
+arm,8,Can a Raspberry Pi run Ubuntu?
+artwork,4,What tools and techniques can I use to make GTK themes?
+ascii,20,ASCII screensaver for the command-line or a TUI?
+ascii-art,11,ASCII animations that are viewed in the command-line?
+asciidoc,3,What advantages does markdown have over asciidoc?
+aspire,18,Stuck on reboot and shutdown
+aspire-one,9,Automatic Mute Speakers When Headphones are Unplugged
+asterisk,2,configure: WARNING: *** Please install the SQLite3 development package
+asus,8,What is causing my Intel 7260 bluetooth device to disconnect when I unblock it with rfkill?
+at-command,1,Understanding the at-command to schedule another command
+ath5k,2,Need wired/wireless atheros driver for AR9285 and AR8152
+ath9k,5,How to resolve wireless disconnect problem in Atheros ath9k
+atheros,31,Wireless networking not working after resume in Ubuntu 14.04
+ati,62,How do I get AMD/Intel Hybrid Graphics drivers to work?
+atime,1,Why does not the atime option of mount always update atime of files as expected?
+atom,1,How to enable global menu support in the Atom editor in XUbuntu?
+attachment,1,How to delete an attachment in an email in Evolution?
+audacious,4,Audacious with shortcuts in keyboard
+audacity,2,Is there a build of Audacity for Ubuntu that can use a local version of FFMpeg?
+audible,7,How to listen to Audible files?
+audio-jack,16,Play sound through two or more outputs/devices
+audio-player,1,Loading ac3 files in VLC player
+audio-recording,2,"Ubuntu SDK: Newbie with security policy problem. Policy group 'debug': not for production use"
+audio-sync,1,Chrome HTML5 Video Out of Sync With Audio
+audiobooks,7,How to listen to Audible files?
+authentication,64,How can I set up password-less SSH login?
+auto-completion,19,Can I make Tab auto-completion case-insensitive in the terminal?
+auto-login,28,How do I change the default session for when using auto-logins?
+autofs,4,How to set an NFS network?
+autohide,21,Can auto-hide for the application menu be turned off in Unity?
+autokey,3,How to define AutoKey shortcut which sends the same keystroke to the window with certain title
+automatic,4,How do I disable automatic remote printer installation?
+automation,28,"What's the difference between Juju and Puppet/Chef?"
+automount,50,How to automount NTFS partitions?
+autoplay,1,How do I stop my PC from autoplaying media files present on my SD card on my Android Phone?
+autorun,1,How To Run An Application On Startup Automatically?
+autossh,3,connecting a SSH tunnel on reboot?
+autostart,112,How to run scripts on start up?
+autotools,2,installing autotools autoconf
+avahi,8,How to share files between Ubuntu and OSX?
+avconv,11,How to replace avconv with (the real) ffmpeg and have it work right?
+avi,3,Using avconv when remuxing to MKV is there a way to fix packed AVI input files?
+avidemux,34,How to convert .mkv file into .mp4 file losslessly?
+awesome,10,How can I permanently save a password-protected SSH key?
+awk,4,How can I merge files on a line by line basis?
+awn,14,How can Docky AWN Cairo Dock and Unity be compared?
+aws,41,How to run sudo command with no password?
+axel,4,What GUI are there for Axel or for other such downloaders that use multiple connections?
+ayatana,4,How do I integrate an application in the sound menu using python?
+azure,7,How to convert rsa key to pem using X.509 standard
+b43,2,Support for cores revision ox17 and ox18 disabled by module param allsupport=0. Try b43 allsupport =1
+background,41,Is it possible to have a different background for each workspace?
+background-process,4,"Differences between ""<command> & disown"" and ""nohup <command> & disown"""
+backintime,2,"Can't reset BackInTime snapshot path"
+backlight,24,How do I set default display brightness?
+backport,5,"How do I enable the ""backports"" repository?"
+backtrack,2,How do I install Backtrack applications in Ubuntu?
+backup,194,Comparison of backup tools
+backuppc,5,How to configure Backuppc in ubuntu 12.04?
+badblocks,1,how to check badsector on ext4 6TB
+baloo,11,How to turn off baloo in KDE 4.13?
+bamboo,5,Does the Wacom Bamboo Pen & Touch work out of the box?
+bandwidth,38,How do I find out which process is eating up my bandwidth?
+banner,1,How to add legal banner in /etc/issue and /etc/issue.net in Ubuntu?
+banshee,6,How can I detect the BPM (beats per minute) of a song?
+barcode,5,Could I use my webcam as a barcode reader?
+bash,95,How to get bash or ssh into a running container in background mode?
+bash-history,2,How do I search shell command history with a text editor?
+bashrc,44,Why ~/.bash_profile is not getting sourced when opening a terminal?
+batch,64,How can I recursively delete all files of a specific extension in the current directory?
+batch-rename,20,How to change extension of multiple files from command line?
+battery,106,Tips to extend battery life for laptops and notebooks
+bazaar,18,"How to keep ""dot files"" under version control?"
+bbswitch,1,Understanding bbswitch and nvidia kernel module
+bc,5,How to round decimals using bc in bash?
+bcache,23,How do I install and use flashcache/bcache to cache HDD to SSD?
+beagleboard,9,Transmission daemon over OpenVPN
+beatbox,1,How to install Beatbox?
+beeline,3,"How do I install the ""Beeline"" Hive client?"
+benchmarks,11,How to perform a detailed and quick 3D performance test
+beowulf,1,*beginner* > Beowulf cluster > How to run script along with command line in my cluster
+berkeleydb,2,Could not locate BerkeleyDB
+beta,5,How can I update the Ubuntu SDK preview from the Qt 5 Beta PPA to the Qt 5 Release PPA
+bfq,8,"Why aren't the BFQ and BFS schedulers included in the official Ubuntu kernel?"
+bfs,8,"Why aren't the BFQ and BFS schedulers included in the official Ubuntu kernel?"
+bidi,1,"How can I disable gedit's behaviour of right-aligning Arabic text?"
+binary,34,Global Installation of Composer (manual)
+bind,26,How do I do a complete BIND9 DNS Server Configuration with a hostname?
+binutils,1,List of GNU binutils
+bios,14,How can I tell if my system was booted as EFI/UEFI or BIOS?
+bison,1,How to install bison 2.7 in ubuntu 14.04
+bitcoin,8,How to install Bitcoin mining software?
+bitnami,1,How to visit a site hosted by my virtual machine?
+bittorrent,39,How to run BitTorrent Sync?
+blackberry,1,How do I set up a Blackberry as a modem without desktop software?
+blacklist,20,Is there a way to blacklist an individual application from using overlay-scrollbars?
+bleachbit,2,ubuntu 13.04 claims my root password wrong
+blender,7,Is there a PPA for the latest Blender version?
+blocklist,1,how to block IPs by generating range?
+blog,4,An alternative software to Live Writer?
+blu-ray,10,Can linux play blu-rays?
+bluefish,1,Bluefish & Nautilus: open files in same window
+blueman,1,Why is my blueman indicator missing?
+bluetooth,81,How can I deactivate Bluetooth on system startup?
+bluetooth-speaker,2,How to get a consistent bluetooth audio playback?
+boinc,2,Why do a lot of programs crash in segmentation fault?
+bookmarks,4,How can I add a bookmark in my nautilus folder explorer
+books,22,List of free Ubuntu books
+boost,2,Ubuntu 12.04 : Uninstall boost installed from source
+boot,189,My computer boots to a black screen what options do I have to fix it?
+boot-failure,14,How to install the Boot-Repair tool in an Ubuntu live disc?
+boot-order,4,Where to install bootloader when installing Ubuntu as secondary OS?
+boot-partition,44,What is the safest way to clean up /boot partition?
+boot-repair,154,How can I repair grub? (How to get Ubuntu back after installing Windows?)
+boot-time,3,Reduce boot time between grub menu and login screen
+boot-to-ram,2,How to run Ubuntu fully in initramfs?
+bootcamp,1,"Ubuntu Won't boot after Bootcamp Expansion"
+bootchart,8,How may I improve my boot / shutdown time?
+bootloader,16,How to set Windows bootloader as default bootloader?
+bootup,1,Not able to disable the cups service using boot-up manager
+borders,4,How to set borders around windows in 14.04?
+boxee,3,How do I get a Boxee Remote working?
+boxes,1,Using gnome-boxes with Remote Desktop Connection
+bq,2,BQ Aquaris E4.5 Ubuntu Edition: Downgrade to Android
+brainstorm,2,What software is there for brainstorming?
+branding,3,"What's the meaning of the Ubuntu logo? Where does it come from?"
+brasero,4,How do I create a video DVD from vob files?
+brightness,50,Brightness is reset to Maximum on every Restart
+broadband,9,Drivers for Broadcom BCM43142 on Ubuntu 14.04 (Trusty Tahr)
+broadcasting,2,How to broadcast message to all logged in users through Terminal?
+broadcom,195,Installing Broadcom Wireless Drivers
+brother,7,How to install a Brother HL2270dw laser printer?
+browser,11,How do I make man pages open in a web browser?
+bsd,1,Does Ext4 stores owner and group names? Or only IDs?
+btrfs,16,How can I use Kernel 3.19 in 14.04 now?
+btsync,1,Set BTsync in 14.04 LTS Ubuntu Server?
+bug-reporting,333,What should I do when Ubuntu freezes?
+bugzilla,12,How do I install Bugzilla?
+build,6,"Writing a ""Hello World"" Device Driver for kernel 2.6 using Eclipse"
+bumblebee,40,How to set up nVidia Optimus/Bumblebee in 14.04
+burg,3,Can I keep BURG on a triple boot with Windows 7 and Windows 8?
+burning,6,How to burn a DVD which is playable in an external player?
+busybox,2,Can not boot! initramfs error!
+button,17,How to configure extra buttons in Logitech Mouse
+byobu,9,how to run multiple byobu sessions at once?
+bzip2,16,"What's the best way to use parallel bzip2 and gzip by default?"
+bzrlib,1,How to get the revision history of a branch with bzrlib
+c,9,fatal error: sys/cdefs.h: No such file or directory|
+c#,5,VB.NET programming in Ubuntu
+c++,10,Receiving error while trying to debug in QtProject
+cac-reader,2,How do I install and configure a Security Card (CAC) Reader for Ubuntu 13.04
+cache,23,How do I install and use flashcache/bcache to cache HDD to SSD?
+caching,1,On Ubuntu 12.04.2 what happens if I disable dnsmasq?
+cacti,18,I need a good network monitoring tool
+cad,12,Is there software that can view .dwg files?
+cairo,3,Making Gtk.Window Transparent?
+cairo-dock,14,How can Docky AWN Cairo Dock and Unity be compared?
+caja,1,System hang when using SSHFS
+calculator,29,Any command line calculator for Ubuntu?
+calendar,16,How to set Monday as the first day of the week in GNOME Calendar applet?
+calibre,6,How do I convert epub to mobi using calibre?
+camera,4,where camera are mounted?
+canon,10,How can I install a Canon printer or scanner driver?
+canonical,16,Can I legally build and sell desktops with Ubuntu pre-installed?
+capslock,19,How do I turn off Caps Lock (the lock not the key) by command line?
+capture,6,Bash script to take screenshot and save the image - Ubuntu
+card-reader,7,Internal SD card reader not mounted/detected HP realtek rts5227
+cardapio,1,How can I remove icon of uninstalled application from application lens in Dash?
+case-insensitive,1,"Keyboard sensitivity - what do I do about it? Keyboard isn't working unless pressing down extremely hard"
+cat,8,Can `cat` show files using code markup in colors?
+catalyst,62,How do I get AMD/Intel Hybrid Graphics drivers to work?
+ccsm,27,What are some of the issues with CCSM and why would I want to avoid it?
+cd,14,How to use a .iso image as a CD-ROM Repository?
+cd-drive,5,CD/DVD drive not mounted when inserted with Disc of any kind
+cd-image,14,How to create ISO images?
+cd-ripping,10,What are some CD Ripping Programs you can use on Ubuntu?
+cddb,1,A Music Player with CD ripping and CDDB lookup
+cdma,1,Modem not responding wvdial ubuntu 15.10
+cdn,3,how to make cdn server ubuntu system
+cedarview,4,How to install Intel CedarView drivers on Ubuntu 12.10 or higher?
+centrino,2,Wireless with Intel Centrino Advanced-N 6235
+ceph,3,How do I enable extended attributes on ext4?
+certificates,37,How do I install a root certificate?
+certification,11,Is there such a thing as a Ubuntu Certified Engineer?
+cgi,2,Apache not rendering Bugzilla cgi
+cgroup,3,How to use cgroup in ubuntu 13.04
+character-set,4,Opening a non-utf8 encoded text file
+charging,3,"How to charge my Ubuntu phone's battery off my Ubuntu laptop's battery?"
+charms,5,What is a Juju Charm?
+charset,1,Is there a way to tell what encoding is used for the name and content of a file?
+chcon,5,Explanation of the chcon command
+checkinstall,4,Compiling source into a DEB package
+checksums,15,How do I check the SHA1 hash of a file?
+cheese,6,Anything better than Cheese for video capture?
+chef,28,"What's the difference between Juju and Puppet/Chef?"
+chess,1,"What's the best chess program for a beginner?"
+chinese,3,How do I get Chinese input to work?
+chkrootkit,1,Backdoor.Linux.Gafgyt.A - How to detect an infection with this backdoor.
+chm,3,How to open CHM documents?
+chm2pdf,1,How do I overcome the chm2pdf error in the description?
+chmod,43,"How do I use 'chmod' on an NTFS (or FAT32) partition?"
+chmsee,1,What happened to ChmSee in 14.04?
+chown,7,/usr/bin/sudo must be owned by uid 0 and have the setuid bit set
+chrome-extension,3,How to integrate KeyPass2 and Chrome/Chromium using ChromIPass in Ubuntu 13.04 & 13.10
+chromebook,9,True Ubuntu on Chromebook ARM (samsung)
+chromecast,32,How can I use Chromecast
+chromeos,2,How to install Ubuntu 32-bit on Asus C300 chromebook
+chromium,38,"What's the difference between Google Chrome and/or Chromium? What are the advantages/disadvantages to each?"
+chroot,34,How can I chroot sftp-only SSH users into their homes?
+chrubuntu,1,Getting my USB headset to work with ChrUbuntu kernel
+cifs,29,Npm errors when installing packages on windows share
+cinelerra,3,Step to step how to install Cinelerra
+cinnamon,34,How do I install the Cinnamon Desktop?
+cisco,17,How do I install the Cisco Anyconnect VPN client?
+citrix,2,How to install Citrix receiver?
+clamav,44,How do I scan for viruses with ClamAV?
+clang,4,How do I backport/install a newer version of clang?
+class,3,How can I make running emacsclient from the unity launcher reuse an existing emacs window
+claws,4,Claws mail: Filtering windows problem in Unity?
+cleanup,258,How do I remove old kernel versions to clean up the boot menu?
+clementine,11,"Clementine won't play .wma with ""Your GStreamer installation is missing a plugin"" error"
+click-packages,10,What security differences are between click and .deb package?
+click-policy,4,Double-click instead of single-click in Ubuntu 12.04
+client,26,Torrent client for the command-line?
+clipboard,29,A command-line clipboard copy and paste utility?
+clipboard-manager,7,GNOME alternatives / equivalent for Klipper?
+clock,20,Upgraded to 13.10 now clock settings are all disabled and clock does not display
+clone,19,How to copy an Ubuntu install from one laptop to another
+clonezilla,20,How do I move (copy) my entire Ubuntu system to a different hard disk?
+cloning,41,How to migrate user settings and data to new machine?
+cloud,20,How do I install OpenStack?
+cloud-init,3,"How to let maas' cloud-init client select internal mirror?"
+cloudera-manager,1,Problem with cluster installation with cloudera manager
+cluster,2,Does postgresql (server) setup a main cluster after installation? (14.04)
+clutter,3,"Cheese won't run in framebuffer"
+clutterflow,1,"nautilus-clutterflow only works in ""sudo-mode"""
+cmake,6,How to install cmake 3.2 on ubuntu 14.04?
+cmatrix,6,How do I get cmatrix to turn on after a certain period of inactivity in console?
+cms,4,Changing permissions for folders and files in /var/www/?
+cmyk,3,How to convert image to CMYK in GIMP?
+code-blocks,20,Is there a way to blacklist an individual application from using overlay-scrollbars?
+codecs,33,How can I play encrypted DVD movies?
+coding-practice,1,How do open a link with a button
+colemak,1,My custom keyboard does not work
+color-depth,2,Ubuntu 14.04.1 - Strange color depth
+color-management,13,How do you set system display color profiles in Xubuntu and Lubuntu?
+colors,82,What do the different colors mean in the terminal?
+column,1,How to save/fix the column width in the Nemo file manager?
+command-line,187,How do I install a .deb file via the command line?
+commercial,2,Oil Rush Commercial PPA problem
+community,46,List of blogs to learn more about Ubuntu
+compaq,1,"Raid 1 can't install Ubuntu 12.04"
+comparison,8,Need Software to compare two text files
+compatibility,7,How to maintain document compatibility between LibreOffice and other office suites?
+compiler,10,How do I use graphics.h in Ubuntu?
+compiling,39,How do I install the latest version of node.js?
+compiz,41,How can I reduce or increase the number of workspaces in Unity?
+compose,7,Custom compose key sequences without xim (e.g. in Sublime Text 2)
+compose-key,9,How can I add a custom compose key sequence?
+compositing,4,Compositing in Lubuntu
+compression,80,How can I reduce the file size of a scanned PDF file?
+compton,2,Screen tearing only when playing videos using GeForce GT 750M
+conda,2,sudo: conda: command not found
+configuration,65,How to fix Duplicate sources.list entry?
+configuration-management,4,What is the relationship between .gconf .gnome2 .cache .local and other dot-file hierarchies in my home directory?
+configure,18,Cannot find install-sh install.sh or shtool in ac-aux
+conky,6,Conky transparency not working
+connection,16,Wifi problems with rtl8723be in Ubuntu 14.04
+connection-sharing,21,Share wireless Internet connection through ethernet
+connman,3,Will ConnMan replace NetworkManager on the desktop for 11.04?
+console,84,"Terminal 'incognito mode'?"
+console-kit,3,How to disable console-kit-daemon in Xubuntu 12.10?
+contacts,6,Ubuntu Touch (officially launched version): How to sync contacts
+container,4,lxc containers hangs after upgrade to 13.10
+context-menu,3,"Missing applications in ""Open With... Aplications"" menu"
+continuous-deployment,1,Software Deployment for Windows Computers?
+contributing,19,I want to fix a bug. Where do I start?
+conversion,34,Jpeg files to pdf
+convert,36,How can I convert audio from MP4 or FLV video files to mp3?
+convert-command,2,How to do I convert an webm (video) to a (animated) gif on the command line?
+cookie,3,"Why I can't access google products like google.com and youtube.com?"
+copy,1,Finding and copying files in Terminal
+copy.com,9,How do I install Copy (file syncing software)?
+core-apps,1,"Can't start ubuntu-filemanager-app in emulator"
+coreutils,58,"Progress and speed with 'cp'?"
+couchdb,1,"What is the ""desktop couch scratch"" folder?"
+covergloobus,2,How to disable gtk-theme in covergloobus?
+cowbuilder,1,Is there a way to convert a pbuilder base.tgz image to a .cow one?
+cowsay,1,How to get more than cows from cowsay
+cp,70,How can I copy the contents of a folder to another folder in a different directory using terminal?
+cpan,1,"can't install cpan module GD"
+cpu,78,How do I get the CPU temperature?
+cpu-architecture,76,How do I check if I have a 32-bit or a 64-bit OS?
+cpu-load,12,tracker-store and tracker-miner-fs eating up my CPU on every startup
+cpufreq,11,How do I use the GNOME Panel in Unity?
+cpuinfo,2,How to find the number of CPU cores including virtual?
+cr-48,1,Wi-Fi stopped connecting on ChrUbuntu
+crash,15,chrome crashing too often in Ubuntu 14.04
+crashplan,4,CrashPlan desktop app suddenly terminated after Splash Screen
+cron,162,Reasons why crontab does not work
+cron-jobs,22,"How are administrators supposed to read root's mail?"
+crontab,90,Where is the cron / crontab log?
+cross-compilation,8,Is there way to compile Qt5 programs written with c++ to Ubuntu Touch?
+crossover,3,Does Microsoft Office run in Crossover/Wine/Playonlinux?
+crossover-office,1,Flash is not working in Chrome (Crossover Linux is installed)
+crossplatform,3,Can I run OSX applications?
+crouton,1,Can I install Ubuntu 15.04 using crouton?
+crunchbang,1,Crunchbang! how to install on second HDD and have working grub
+cryptroot,2,Cryptroot error during boot
+cryptsetup,3,"Ephemeral error message: ""cryptsetup: unknown fstype bad password or options?"""
+csd,1,Disable client side decorations in Nautilus (Gnome 3.10)
+css,11,How do you install less css command line compiler?
+csv,5,Add column from one .csv to another .csv file
+cube,10,How to correctly enable Desktop Cube in Unity 3D?
+cubieboard,3,How to setup Ubuntu on a Cubieboard or Cubietruck?
+cuda,30,Installing and testing CUDA in Ubuntu 14.04
+cups-lpd,1,Samsung ML1915 USB printer not detected by cups
+curl,9,Cannot find curl-config in Ubuntu 13.04
+curlftpfs,1,Mount FTP so it will be possible to execute shell commands
+cursor,40,Mouse cursor flickering and disappearing
+cursor-theme,4,How to break or delete the symbolic link?
+custom-distributions,133,How to customize the Ubuntu Live CD?
+custom-installer,6,How can I customize the Ubuntu installer?
+customization,31,How to customize the gnome classic panel
+customizer,2,Boot an up-to-date Ubuntu linux OS from cdrom or dvd
+cut-command,1,Periodically cut and paste files
+cuttlefish,1,Reduce CPU frequency in battery mode automatically
+cyanogenmod,1,To send package to USB device by Heimdall
+daap,1,Setting up DAAP in Banshee
+daily-build,1,"I'm running a nightly build will apt-get upgrade keep me current?"
+dansguardian,1,Proxy issues with IM clients using yahoo
+darktable,2,How to reset darktable
+dash-shell,2,"How can my script determine whether it's being run by bash or dash?"
+data-corruption,1,How to copy directories and files from a corrupted harddrive?
+data-loss,6,How to mount a hard disk as read-only from the terminal
+data-recovery,55,Adding SSH Keys to authorized_keys
+database,17,What is a good MongoDB GUI client?
+date,8,How to change the date format?
+davmail,2,Thunderbird endlessly redownloading messages with Davmail
+daw,2,"Problem starting JACK server ""Jack Server is not running or cannot be started"""
+dbus,14,GDBus.Error when trying to enable second screen
+dconf,24,What is dconf what is its function and how do I use it?
+dd,119,How do you monitor the progress of dd?
+ddclient,2,"Why is ddclient giving me an ""Invalid IP"" error when trying to update dynamic DNS?"
+dead-keys,3,How to have programmer-friendly Dvorak with deadkeys in Ubuntu?
+deadbeef,3,How to convert audio files in Deadbeef player?
+deadlock,2,Abort active download of packages in Ubuntu from terminal?
+deb,35,How do I create a deb package for a single python script?
+debconf,9,"What do I select for ""GRUB install devices"" after an update?"
+debian,37,What is the simplest Debian Packaging Guide?
+debian-installer,4,How do I configure two NICs in ubuntu-server preseed?
+debootstrap,3,How do I add more variants or custom packages to debootstrap?
+debug,19,"after upgrade gdb won't attach to process"
+debugging,75,I have a hardware detection problem what logs do I need to look into?
+debuild,1,"Why did debuild fail with ""configure: error: unrecognized option:"""
+decompress,7,how to extract tar.7z files from command line?
+decryption,5,How do I mount an encrypted /home directory on another Ubuntu machine?
+default,10,Why can other users see the files in my home folder?
+default-browser,11,How do I change my default browser?
+default-programs,24,How to set default program?
+defrag,5,How to defrag an ext4 filesystem
+deja-dup,7,Is it possible to restore only one directory with the backup utility?
+delete,12,How do I remove a folder?
+dell,99,How to setup an Access Point mode Wi-Fi Hotspot?
+dell-mini-10,2,"""No required driver detected for unity"" on Dell Mini 1010"
+dell-mini-9,1,No Internet after reinstalling on Dell Mini 9
+dell-studio-xps-16,2,Why does Ubuntu reset brightness settings at the loading screen?
+dell-vostro,13,How do I install BCM43142 wireless drivers for Dell Vostro 3460/3560?
+deluge,21,"How to configure chrome to open magnet url's with deluge?"
+dependencies,265,How do I resolve unmet dependencies after adding a PPA?
+derivatives,17,What is the difference between Ubuntu and its derivatives?
+design,15,Native FOSS GUI prototyping tools?
+desktop-directories,7,Where should I keep my personal files while keeping the pathname short?
+desktop-environments,279,What kinds of desktop environments and shells are available?
+desktopcouch,1,DesktopCouch does not sync
+detect,5,hwinfo replaced with ... what?
+development,34,How do I make a Theme from scratch for Unity?
+device-name,9,"Change the ""device name"" in the details window of System settings"
+devices,4,What is the best printer for Ubuntu?
+devilspie,3,How can I get a startup application to run in another workspace other than #1?
+df,1,df is omitting some whole parts of my fs / disks. Is there something wrong?
+dh-make,2,Packaging a CMake project (libRocket) into a .deb but build script is in a sub folder
+dhclient,4,How do I turn off avahi-daemon on boot?
+dhcp,6,How to view the DNS address assigned by DHCP?
+dhcpd,3,Why using DHCP service?
+diagnostic,11,Tools to diagnose Ubuntu problems
+diagram,8,Nice network diagram editor?
+dialog,13,"Can I stop apps from selecting ""Recently Used"" by default in file chooser dialogs?"
+dictionary,18,Is there an offline command-line dictionary?
+diff,42,File and directory comparison tool?
+differences,6,Main difference between Ubuntu and Redhat?
+digikam,4,"How to make digiKam remember Google's Two-factor Authentication password?"
+digital-dairy,2,What Digital Diaries are available?
+digitalpen,1,how to make any digital pen work in ubuntu 14.04?
+directory,69,Differences between /bin /sbin /usr/bin /usr/sbin /usr/local/bin /usr/local/sbin
+directory-structure,2,Why should I move everything in /opt?
+disconnect,4,Wifi Drops and Reconnects with UBUNTU 14.04 (Realtek RTL8188)
+disk,33,Mount single partition from image of entire disk (device)
+disk-check,10,How do I check the health of a SSD?
+disk-image,3,Browse .img without mounting
+disk-management,26,How to format a USB flash drive?
+disk-ripping,2,"Any way to easily rip blu-ray disks? "
+disk-usage,187,How do I free up more space in /boot?
+disk-utility,6,How do I rename a USB drive?
+display,33,How to add display resolution fo an LCD in Ubuntu 12.04? xrandr problem
+display-manager,83,How do I disable X at boot time so that the system boots in text mode?
+display-resolution,89,Screen Resolution Problem with Ubuntu 14.04 and VirtualBox
+displaylink,8,How To Make Ubuntu 13.04 Work With DisplayLink Monitor?
+displayport,7,Displayport 1.2 MST/daisy chain - Dual Monitor setup - Intel graphics
+dist-upgrade,52,Why use apt-get upgrade instead of apt-get dist-upgrade?
+distro-recommendation,23,"What's the difference between the server version and the desktop version?"
+django,9,How can I install Django for Python 3.x?
+djvu,17,Converting DJVU to PDF
+dkim,17,Setup DKIM (DomainKeys) for Ubuntu Postfix and Mailman
+dkms,8,Command to rebuild all DKMS modules for all installed kernels?
+dlna,27,How do I set up live audio streams to a DLNA compliant device?
+dm-cache,12,What are the advantages/disadvantages of different SSD to HDD cacheing options (dm-cache flashcashe...)?
+dmcrypt,34,Mcrypt extension is missing in 14.04 server for mysql
+dmesg,12,What is nss-myhostname? And why is it not installable?
+dmraid,3,Un-raiding a two-disk fakeraid array
+dns,32,Command-line to list DNS servers used by my system
+dnscrypt-proxy,2,dnscrypt-proxy - find the best DNS resolver and update the dnscrypt-resolvers list
+dnsmasq,15,How do I configure my DNS settings in Ubuntu server?
+do-release-upgrade,12,Update available message after installing update
+doc,4,Search text within multiple pdfs and docs
+dock,11,How to automatically switch monitors with my laptop dock
+dockbarx,1,DockbarX/AWN Preview is empty
+docker,95,How to get bash or ssh into a running container in background mode?
+docking,5,Thinkpad w540 w/ Ultra Dock only one external monitor works
+docky,14,How can Docky AWN Cairo Dock and Unity be compared?
+document,4,Extract text from a scanned document
+document-management,13,Is there any API Document Browser like Dash on Ubuntu?
+documentation,10,How are typical users expected to read the documentation in /usr/share/doc?
+dolphin,15,How to set up Dolphin as default file manager?
+domain-server,4,System wide Proxy settings when on a windows network with a password
+donation,1,Donate to Ubuntu Phone/Tablet
+dosbox,4,Can I disable Dash and HUD hotkeys when fullscreen (in DOSBox)?
+dotnet,13,Installing dotnet 2.0 on 64 bit machine
+doubleclick,1,How to make touch-bad double click stick for some seconds(Drag Lock) after releasing the touch-bad?
+doublecmd,1,How to change PPA to point to another distro
+dovecot,2,"dovecot can't compact mail folder /var/mail/username"
+downgrade,38,How to Downgrade a Package via apt-get?
+download-manager,48,What download managers are available for Ubuntu?
+download-speed,54,How to check Internet Speed via Terminal?
+downloaders,24,How to select video quality from youtube-dl?
+downloads,30,How to download an MP3 track from a YouTube video
+doxygen,2,Is there a plugin for the terminal which allow to detect and open files?
+dpi,36,How to find and change the screen DPI?
+dpkg,117,Unable to lock the administration directory (/var/lib/dpkg/) is another process using it?
+dput,1,How to upload to a launchpad team PPA?
+drag-and-drop,7,Drag and Drop across (fullscreen) applications switching via Alt-Tab
+drive,6,What is the equivalent for switching drives in terminal on Linux?
+drivers,195,Installing Broadcom Wireless Drivers
+drm,5,Does 12.04 need graphics drivers for NVidia?
+droidcam,1,Error while installing droidcam
+dropbox,34,"Dropbox error - 'echo 100000 | sudo tee / proc/sys/fs/inotify/max_user_watches'"
+drupal,9,"What's the easiest way to install Drupal locally?"
+dsl,2,How to connect to the Internet (DSL) automatically at startup?
+du,2,How to get a full size of directory without listing the files/dir within?
+dual-boot,336,Installing Ubuntu on a Pre-Installed Windows with UEFI
+dual-graphics,1,Right side of touch pad becomes too hot while using Ubuntu
+dual-monitor,2,Mouse pointer invisible with dual monitor
+dualhead,6,How to customise one session for dual monitors and another for single monitors?
+dump,4,How can I dump all physical memory to a file?
+duplex-printing,2,Printer Manual Duplex Emulation?
+duplicate,3,Can I stop wget creating duplicates?
+duplicate-files,10,How can I find duplicate songs?
+duplicity,5,Where does Deja-dup keep its config files?
+duration,5,How can I list the unused applications?
+dv6,6,How do I disable the touchpad using the upper left corner on an HP Pavilion dv6?
+dvb,1,DVB-T sound in VLC is jittering
+dvb-t,1,How to make an Avermedia AverTV Volar Green HD work?
+dvd,33,How can I play encrypted DVD movies?
+dvd-audio,2,How do I rip audio from a DVD?
+dvd-backup,1,How to create a DVD rip/ISO?
+dvi,1,laptop sees two connections when HD TV is plugged but no image
+dvorak,3,How to change the login screen keyboard layout?
+dynamic-linking,3,Where does Ubuntu look for shared libraries?
+dyndns,2,"Why is ddclient giving me an ""Invalid IP"" error when trying to update dynamic DNS?"
+e1000,1,Detected Hardware Unit Hang with 82566DC / e1001e
+easter-egg,36,Easter eggs in Ubuntu
+easybcd,1,How do I use EasyBCD as bootloader with Windows 8 and UEFI?
+easytether,1,Easytether does not work with Ubuntu server
+ebooks,22,What software can I use to view epub documents?
+echo,2,"Why does 'echo *' give different results than 'ls *'?"
+eclipse,131,How to install Eclipse?
+eclipse-cdt,6,"Writing a ""Hello World"" Device Driver for kernel 2.6 using Eclipse"
+ecryptfs,25,How to stop using built-in home directory encryption?
+editing,5,What is good software for editing RAW photo files?
+editor,15,How to copy paste contents in VI editor?
+edubuntu,3,manage a system of Ubuntu computers from a single computer
+education,9,Are there any good typing tutors?
+eeepc,3,"Fresh install of Ubuntu 12.10 won't boot on Asus X101CH Eee PC"
+effects,5,"Why aren't 3d effects working?"
+ejabberd,2,Why Does Ejabberd Start Fail?
+eject,4,What is the difference between Eject and Safely Remove Device
+ekiga,1,Call transfer/forward with Ekiga/Jitsi?
+elantech,2,Elantech touchpad stopped working after restart
+elementary,5,Vagrant up/reload error - default: Warning: Connection timeout. Retrying.
+elementary-theme,2,Use a light panel with Elementary (or other GTK+ themes that use dark panels)?
+emacs,16,How to upgrade to Emacs 24.1?
+email,72,How to send mail from the command line?
+email-client,1,Evolution slow down over time EWS
+embedded-system,4,How do I find out which boot loader I have?
+emblem,4,"Get a file's emblem from command line?"
+emerald,6,How can I install Emerald Theme Manager and switch between Emerald and Metacity themes?
+emmc,2,udev and eMMC rpbm partitions
+emoji,1,Emoji picker tool?
+empathy,7,"How can I enable the ""Share Desktop"" feature in Empathy?"
+emulation,11,Is there an Ubuntu Touch emulator or a way to install it in a VM?
+emulator,21,How to run an Android emulator in Ubuntu 13.04
+encfs,2,Not allowed to delete a encfs-encrypted empty folder
+encoding,11,Switch encoding of terminal with a command
+encrypted-partition,6,Mount a LUKS partition at boot
+encryption,38,How do I enable Ubuntu (using full disk encryption) to call LUKSsupend before sleeping/suspending to RAM?
+engine,2,Search engine for ubuntu users
+enhanceio,12,What are the advantages/disadvantages of different SSD to HDD cacheing options (dm-cache flashcashe...)?
+enigmail,3,gpg-agent: how to limit the passphrase cache retention time
+enlightenment,1,Uninstall Enlightenment E16 on Ubuntu 10.04
+environment,6,"Is there a difference between ""."" and ""source"" in bash after all?"
+environment-variables,159,How to add a directory to my path?
+eog,3,Low quality image rendering in gthumb/eog
+epiphany,2,How to change the User Agent in Gnome Web (epiphany)
+eps,2,How to edit .eps files?
+epson,5,How can I get my Epson v500 scanner working?
+epub,22,What software can I use to view epub documents?
+equalizer,3,How do I install an equalizer in Rhythmbox?
+equivs,22,How to create a meta-package that automatically installs other packages?
+erlang,5,How to install erlang in Ubuntu 12.04?
+error-handling,56,Error message when I run sudo: unable to resolve host (none)
+espeak,3,How to install more voices to Espeak?
+essid,1,Two networks with the same ESSID how do I blacklist one or force the other?
+esx,1,Nested virtualization on Windows
+etc,5,How to recover a deleted /etc/passwd file?
+ethernet,21,Share wireless Internet connection through ethernet
+evdev,2,Xorg Segmentation Fault - seems to be relevant to evdev
+events,9,What events are available for Upstart?
+evernote,7,How can I run Evernote on Ubuntu?
+everpad,3,Install Everpad on Ubuntu 13.10 and 14.04
+evince,8,How can I make PDFs appear life-size when displayed at 100%?
+evolution,13,"How can I remove ""Set Up Mail"" and other entries from the message indicator?"
+evolution-mapi,1,Evolution MAPI & Evo EWS not workining in Ubuntu 14.04
+exaile,1,Exaile Sound Indicator Menu Integration
+executable,29,What is the difference between ./ and sh to run a script?
+execute-command,19,How do I run executable scripts in Nautilus?
+exfat,28,How to get a drive formatted with exfat working?
+expect,1,How to get response from ssh command using expect
+expo-mode,1,"Can't remap ""Expo"" in CompizConfig for 13.04"
+expresscard,1,The mobile broadband (express card Sierra wireless aircard 890) is no longer able to connect 3G network after installing new U 14.04 LTS
+ext3,7,"What is the difference between ext3 & ext4 from a generic user's prespective"
+ext4,31,How can I resize an ext root partition at runtime?
+extension,10,How to install GNOME Shell extensions
+external-hdd,27,Disable auto-opening nautilus window after auto-mount
+external-monitor,44,How do I setup dual monitors in XFCE?
+external-soundcard,4,How to listen live sounds from input from external sound card?
+extract,67,What command do I need to unzip/extract a .tar.gz file?
+f-spot,2,Using F-Spot how can I find the file location for a specific photo?
+f.lux,1,"f.lux doen't start after booting"
+f2fs,2,Installing Ubuntu 14.04 on a F2FS partition
+facebook,6,Why does Pidgin refuse to connect to Facebook Chat?
+faenza,3,How can I install the Faenza icons for Libreoffice on 14.04?
+fail2ban,11,potential ufw and fail2ban conflicts
+failover,1,Ubuntu: ethX Interface not bonded after unplugging and plugging its cable back
+fan,12,How do I get fan control working?
+fancontrol,12,How do I get fan control working?
+fat32,10,How to repair a corrupted FAT32 file system
+fatrat,1,How to make Fatrat run in Lubuntu in spite of being a QT application?
+fax,1,Are there any fax sending applications?
+fbgrab,2,"Why doesn't /dev/fb0 exist?"
+fcitx,3,fcitx process using more memory
+fdisk,6,How do I create and tune an ext4 partition from the command-line?
+fedena,1,Run script at boot/startup in Ubuntu 12.04 x64 Server
+fedora,6,How to make an Ubuntu live USB stick in Fedora?
+ffmpeg,50,Is FFmpeg missing from the official repositories in 14.04?
+fft,1,"How to decide AMD GPU for Matlab's FFT?"
+fglrx,62,How do I get AMD/Intel Hybrid Graphics drivers to work?
+fhs,2,Why should I move everything in /opt?
+file-association,17,Change all associations from gedit to another application
+file-extension,6,How to add an extension to all files via terminal
+file-format,18,How can I open a .dmg file?
+file-properties,29,How can I change the date modified/created of a file?
+file-roller,2,"Recover archive manager's ""lost"" columns?"
+file-server,43,How to make my own Dropbox / Ubuntu One server at home?
+file-sharing,15,How to make a home server using Ubuntu desktop?
+file-size,12,How to list recursive file sizes of files and directories in a directory?
+file-sorting,1,Sorting files by name
+file-type,8,How can i open SDM.pkg and .sdx files on Ubuntu?
+filelink,1,How can I synchronize Windows links (.lnk) to 12.10 using Ubuntu One?
+filemanager,14,"What are the alternatives to OS X's Spotlight?"
+filename,6,How to find all files with the same extension within a directory
+files,64,How can I recursively delete all files of a specific extension in the current directory?
+filesystem,125,How do I determine the total size of a directory (folder) from the command line?
+filezilla,2,How To Edit/Add/Delete/Rename Files/Folders In Ubuntu Server Using FileZilla?
+finance,8,"Which tool to use for ""home banking""?"
+find,25,find a file using the terminal
+fingerprint-reader,10,Driver for Validity Sensors Fingerprint scanner
+firefox,36,How do I install the Firefox Developer Edition?
+firefox-extensions,11,How to integrate KeyPass2 and Firefox using Keefox/PassIFox in Ubuntu 14.04 - 15.04
+firestarter,1,Ubuntu 12.10 wireless internet not connecting to internet intel pentium dual x86
+firewall,28,Why is the firewall disabled by default?
+firewalld,1,Can I install a GUI for firewalld?
+firewire,1,"How to deactivate kernel modules ""firewire_ohci"" and ""firewire_core""?"
+firmware,9,"Bluetooth Broadcom 43142 isn't working on ubuntu"
+fish,9,How do I set fish as the default shell?
+flac,5,Convert lossless m4a to flac
+flareget,1,File not in downloaded save to folder after downloading finished
+flash,89,Flash video appears blue
+flashcache,12,What are the advantages/disadvantages of different SSD to HDD cacheing options (dm-cache flashcashe...)?
+flask,1,install Flask as a virtual environment whith virtualenv.py in 12.10
+flicker,11,Weird partial screen flickering after upgrade to 14.04
+flickr,9,How to keep your photos in sync with Flickr?
+floppy,3,Can I boot Ubuntu from a floppy?
+fluendo,1,Medibuntu vs Fluendo
+flush,1,Why Flush torrent client would not start?
+fluxbox,5,"Beginner's Guide to Fluxbox"
+flv,36,How can I convert audio from MP4 or FLV video files to mp3?
+focaltech,4,Touchpad not recognized on Asus N550JK - TP500L (FocalTech)
+focus,55,How do I set focus follows mouse?
+folder,98,Change folder permissions and ownership
+font-rendering,5,How do I enable font anti-aliasing in Wine?
+fontconfig,3,Configure fontconfig to ignore bitmaps in scalable fonts
+fonts,51,How can I make my shell prompt look like a cheeseburger?
+foobar2000,3,How to reset setting of Wine avoiding uninstalling all applications in it?
+foreman,1,Clarification: What are my options for an image server/Central Management Server with Ubuntu Server?
+format,30,How to format a USB or external drive?
+format-conversion,7,How can I cut the margin of a PDF or djvu file for optimal booklet printing?
+fortran,4,Bash: ./filename : Cannot execute binary file
+fortune,3,Creating a Fortunes file
+fps,1,[Solved]Screen Tearing in games after shifting to ubuntu
+framebuffer,5,hwinfo replaced with ... what?
+framerate,6,Why do I have low FPS unless root?
+free,2,How to use free -m to get memory usage for all users
+free-software,26,Is there a difference between free software and open source software?
+freelan,1,How do I setup freelan in ubuntu?
+freemat,6,Comparison of Octave Spyder Freemat and Scilab as alternatives to MATLAB
+freenx,13,What free Remote Desktop (server) solutions are there?
+freeze,13,Computer freezing on almost full RAM possibly disk cache problem
+frequency,7,How to find which WiFi frequencies are being used the most near by?
+friends-app,1,twitter app in messaging menu
+fsck,17,Fix corrupt NTFS partition without Windows
+fstab,23,How to mount a new drive on startup
+ftp,21,Basic Ubuntu FTP Server
+fujitsu-siemens,2,Ubuntu 12.04 CD will not boot up
+fullscreen,6,How to launch google-chrome/chromium application shortcut in fullscreen/kiosk mode
+function-keys,8,How to make keyboard backlight Fn buttons work in Samsung Series 9?
+functions,7,How to make the argument as optional in bash?
+fuse,24,How to enable exFAT in Ubuntu 14.04
+g++,53,Choose gcc and g++ version
+galaxy-nexus,18,What is Ubuntu Touch (Ubuntu for Phones)
+gallium,1,Laptop overheats when running Ubuntu 13.10
+gamepad,38,How do I get an XBOX 360 controller working?
+games,97,What native games are available?
+gammu,2,gammu and device permissions
+gateway,4,When are network broadcast and gateway required for configuring a network interface manually?
+gcalctool,2,a good hex/binary calculator
+gcc,53,Choose gcc and g++ version
+gconf,11,What are the differences between gconf and dconf?
+gdb,3,warning: GDB: Failed to set controlling terminal: Operation not permitted
+gdebi,3,Is it safe to use gdebi instead of Ubuntu Software Center to install .deb files?
+gdevilspie,2,Is it possible to pin programs to specific workspaces without CCSM?
+gdm,20,"What's the difference between GDM and LightDM?"
+geany,8,How do I make Geany my default editor on Ubuntu?
+geary,1,Ubuntu 13.04 Geary - how to run in the background?
+gedit,23,"Prevent gedit from creating files with the '~' (tilde) suffix"
+gem,3,"Can't install gems from behind proxy"
+gems,2,Problem installing ruby and gems
+genymotion,1,VirtualBox error kernel headers
+geoip,3,"Gtk-redshift can't get location using geoclue"
+gestures,13,How can I disable arbitrary default multitouch gestures in Unity?
+gettext,1,How to make Glade load translations from /opt
+ghostscript,12,Reduce filesize of a scanned PDF
+gif,4,How can I quickly convert a GIF file to a video?
+gigolo,1,How to get sudo access to shares mounted by Gigolo
+gimp,20,How to make Gimp run as a single window?
+gis,3,QGIS (Quantum GIS) install fails unmet dependencies
+git,58,What are some GUI clients for Git?
+git-buildpackage,2,Howto handle packaging and development in one git repository?
+github,18,Why does Ubuntu use Launchpad instead of GitHub or Bitbucket?
+gitosis,2,Ubuntu 12.04 Gitosis no longer available
+gksu,27,"What is the difference between ""gksudo nautilus"" and ""sudo nautilus""?"
+gksudo,25,Why is gksu no longer installed by default?
+glade,4,How can I add cut/copy/paste functionality to my application?
+glassfish,2,How to setup glassfish v3?
+glib,10,Gvim GLib-GObject-WARNING in ubuntu 13.10
+glibc,4,"libc.so.6: version `GLIBC_2.16' not found"
+glitch,2,Glitches while trying to scroll pages in Chromium
+globalmenu,8,How to hide window title and menu bar in GNOME Shell?
+gloobus-preview,1,How to preview files using Gloobus-Preview?
+gma3600,1,gma500_gfx vs cedarview-graphics-drivers?
+gma500,2,Login screen all screwed up on wakeup from suspend
+gmail,6,Can I make links to email addresses open Gmail instead of Evolution?
+gmplayer,1,How to fix AVI index error
+gnash,3,How do I switch Flash players?
+gnome,130,How to revert to GNOME Classic Desktop?
+gnome-activity-journal,2,Gnome Activity Journal does not show recently used files
+gnome-calculator,3,How is a cubic root done in gnome-calculator?
+gnome-classic,130,How to revert to GNOME Classic Desktop?
+gnome-color-manager,1,calibrate screen gnome color manager (calibrate button disabled)
+gnome-control-center,3,How to register VLC as a multimedia player in Ubuntu system?
+gnome-disk-utility,6,Securely erase hard drive using the Disk Utility
+gnome-do,3,How do I remap the keyboard shortcut for Gnome Do?
+gnome-documents,8,Folders showing lock icon
+gnome-fallback,7,"Which is correct: ""GNOME Classic"" or ""GNOME Fallback""?"
+gnome-keyring,22,"Wine can't find gnome-keyring-pkcs11.so"
+gnome-panel,32,What can replace system monitoring in the top Gnome Panel in Unity?
+gnome-power-manager,15,How can I control HDD spin down time?
+gnome-screensaver,3,Lock Screen not working. 14.04
+gnome-screenshot,23,Default save directory for gnome-screenshot?
+gnome-session,42,What happens under the covers to log me in and start up Unity or another Graphical User Interface?
+gnome-session-fallback,2,IBus methods do not show up in text entry settings
+gnome-settings-daemon,44,Desktop forgets theme?
+gnome-shell-extension,5,Documentation for gnome shell extension development?
+gnome-software,1,Can I Test the New Gnome Software On Ubuntu 14.04?
+gnome-terminal,84,"Terminal 'incognito mode'?"
+gnome-tweak-tool,2,How to install themes with GNOME tweak tool?
+gnome2,2,Remember gnome-terminal position across multiple desktop after reboot
+gnote,3,How can I sync Gnote notes?
+gnu,1,What is the GNU operating system and the Unix shell?
+gnu-r,1,"How to make ""R"" use all CPUs"
+gnu-screen,8,X11 Forwarding over Gnu Screen is it possible?
+gnumeric,2,Remove all hyperlinks from a spreadsheet
+gnupg,76,"How do I fix the GPG error ""NO_PUBKEY""?"
+gnuplot,8,gnuplot not showing the graph window
+gnuradio,1,Pybombs configuration
+gnutls,1,gnutls_handshake() failed: A TLS packet with unexpected length was received
+gobject,3,"What does ""Introspection"" mean and how is it related to GObject Introspection?"
+golang,4,"Any PPAs for Google's Go Language?"
+goldendict,3,convert wordlist.txt file[s] to make them compatible and working in goldenDict
+google,13,How can I easily set up a Google Cloud Print printer?
+google-calendar,7,Is there a way to add Google Calendar notifications to the indicator message applet?
+google-chat,1,Google Voice plugin for gmail not working (12.04 x64 & firefox 17.0)
+google-chrome,40,How To Enable WebGL In Chrome On Ubuntu?
+google-desktop,1,"Google Desktop hotkey Ctrl+Ctrl doesn't work"
+google-drive,62,Is there a Google Drive client available?
+google-earth,8,Google Earth stereoscopic 3D browsing
+google-hangouts,3,Separate icons for Chrome and Hangouts in Unity
+google-maps,4,Firefox cannot draw the new Google Maps
+google-musicmanager,7,Why does Google Music Manager refuse to open in 12.04?
+google-picasa,33,How would I install Picasa 3.9?
+google-plus,8,Desktop Client for Google+ and Hangout
+google-reader,2,RSS Reader that can fetch and show the older items of a feed
+google-talk,6,How do I install the google-talkplugin?
+googledart,2,How to install Google Dart in Ubuntu?
+governor,2,How to set governors for Intel to work as old good ondemand?
+gparted,35,How can I quickly copy a GPT partition scheme from one hard drive to another?
+gpg,1,GPG error while trying to install tor from external repository
+gpl,8,How do I use GPL and MIT licenses correctly?
+gpodder,1,How can I make rhythmbox/gpodder download podcasts into a single folder?
+gps,4,How can I use my Garmin device in Ubuntu?
+gpt,28,How can I change/convert a  Ubuntu MBR drive to a GPT and make Ubuntu boot from EFI?
+gpu,6,How to measure GPU usage?
+gpu-drivers,1,AMD driver issues (Ubuntu 14.04 w/ KDE)
+grab-handles,3,How do I use Unity drag handles?
+gradle,11,Gradle in Ubuntu
+graphics,98,Is a NVIDIA GeForce with Optimus Technology supported by Ubuntu?
+graphics-tablet,8,How do you turn off touch on a Wacom Bamboo CTH-470?
+grep,90,"How to use ""grep"" command to find text including subdirectories"
+greybird,1,How do I increase the terminal border size in xfce?
+grive,4,grive sync error possibly google API shift
+grooveshark,2,Any Rhythmbox plugin for grooveshark out there?
+groovy,4,How Do I Install Groovy?
+groups,13,How to display all user and groups by command
+grub-efi,28,How can I change/convert a  Ubuntu MBR drive to a GPT and make Ubuntu boot from EFI?
+grub-legacy,2,Switching an already installed Ubuntu 14.04 LTS from Legacy to UEFI Boot mode
+grub2,258,How do I remove old kernel versions to clean up the boot menu?
+grubrescue,17,Recovering moved .mod files using grubrescue
+grunt,1,Installing Grunt js on 13.04
+gsettings,24,What is dconf what is its function and how do I use it?
+gstreamer,11,"Clementine won't play .wma with ""Your GStreamer installation is missing a plugin"" error"
+gtalk,2,How to use a network video stream (from an ip webcam) as a webcam
+gthumb,3,Low quality image rendering in gthumb/eog
+gtk,16,Gdk Gtk warnings and errors from the command line
+gtk-2,1,Editing Raleigh GTK theme
+gtk3,6,Are there any tweaks for fixing the appearance of Eclipse Juno on ubuntu?
+gtkrc,2,Libre Office Calc - small sheet toolbar?
+guake,8,Bash command history not working
+guest-additions,115,How do I install Guest Additions in a VirtualBox VM?
+guest-os,6,Ubuntu 14.04 Desktop under Windows 8.1 Hyper-V
+guest-session,50,How do I disable the guest session?
+gufw,28,Why is the firewall disabled by default?
+gui,58,What are some GUI clients for Git?
+gvfs,27,"What is the difference between ""Unmount"" ""Eject"" ""Safely Remove Drive"" and the eject icon?"
+gvim,14,What are the differences between the different vim packages available in Ubuntu?
+gwibber,4,How do I safely remove gwibber?
+gzip,115,How to unzip a zip file from the Terminal?
+h264,3,"YouTube won't work after the Ubuntu Upgrade to 15.10"
+hacking,1,"I'm being hacked"
+hadoop,20,How to install Hadoop?
+hal,3,Cannot get 4od video streaming to work
+hamster,3,"Can't get hamster and getting things gnome integrate"
+handbrake,9,Only MKV format available in HandBrake
+hard-drive,65,How to check hard disk performance
+hard-link,12,Are hard links equivalent to Windows shortcuts?
+hardware,98,Is a NVIDIA GeForce with Optimus Technology supported by Ubuntu?
+hardware-acceleration,8,Force Enable Hardware Acceleration in Firefox
+hardware-certification,6,Is there such thing as an Ubuntu Certification Program which guarantees compatability?
+hardware-enablement-stack,12,Hardware Enablement Stack (HWE) out of support
+hardware-recommendation,15,Lenovo Thinkpad X1 Carbon support
+hardware-test,10,How do I check the health of a SSD?
+hash,3,How to generate randomart of anyfile?
+haskell,17,How to install Haskell Platform for Ubuntu 13.04?
+hd-video,4,How can I convert a 1080p wmv video to a 720p video?
+hd6470m,1,Why does Ubuntu Freezes on ASUS K42DY laptop with RADEON HD6470M Graphics Card?
+hda-intel,5,No sound on Ubuntu 15.10
+hdmi,28,Ubuntu refuses to output audio via HDMI
+hdtv,1,HDTV recognized as 7-inch screen causes wrong DPI settings
+headless,49,How do I create a completely unattended install of Ubuntu?
+headphones,13,Sound from both headphones and speakers
+headset,6,How can I make usual phone calls using a connected mobile phone?
+heat,1,Ubuntu 12.10 overheats and fan runs high
+hebrew,4,How can I install a Hebrew supporting Microsoft Word?
+held-packages,1,Held broken packages (libgbm1) from Xorg-edgers PPA
+helpfile,2,"How can I install Gimp 2.8's help documentation on Ubuntu 12.04?"
+hfs+,32,How to read and write HFS+ journaled external HDD in Ubuntu without access to OS X?
+hibernate,165,How to enable hibernation?
+hidden-features,14,Not-So-Well-Known features of Ubuntu
+hidden-files,16,Where is .bashrc?
+high-availability,1,Ubuntu: ethX Interface not bonded after unplugging and plugging its cable back
+history,84,"Terminal 'incognito mode'?"
+history-of-ubuntu,29,What is the rationale for the `/usr` directory?
+hive,3,"How do I install the ""Beeline"" Hive client?"
+home-automation,9,How to do simple home-automation?
+home-directory,11,"How can I move my /home directory to another partition if it's already part of the / partition?"
+home-server,5,Recommended storage scheme for home server? (LVM/JBOD/RAID 5...)
+home-theatre,1,Convert .mov files to Home theater Compartible MP4
+hostapd,8,"hostapd error ""nl80211: Could not configure driver mode"""
+hosting,29,What Can Be Done To Secure Ubuntu Server?
+hostname,80,How do I change the hostname without a restart?
+hosts,6,Why does my name resolution hit the DNS even with a hosts file entry?
+hot-spot,32,How do I create a WiFi hotspot sharing wireless internet connection (single adapter)?
+hotot,1,Hotot Direct Messaging Issue
+hotplug,1,How can I run code whenever a USB device is (un)plugged without requiring root permissions?
+hp,23,How can I dual-boot Windows 10 and Ubuntu on a UEFI HP notebook?
+hp-cloud,2,How can I configure Juju for deployment on HP Cloud?
+hp-pavilion,6,Why does my laptop with AMD Radeon HD 76xx graphics get overheated when using Ubuntu?
+hp-touchpad,1,Where to get novacom package from
+hplip,5,Problem with printing (hplip) in Ubuntu 14.04
+htc,1,Best software for Android Device On Ubuntu?
+html,7,Is it possible to open an Ubuntu app from HTML?
+html5,19,How do I develop an Ubuntu application in HTML and JS?
+htmldoc,1,What happened to the dhelp package?
+htop,2,How to calculate the average of cpu usage and memory usage over a period of time in ubuntu
+https,14,HTTP POST and GET using cURL in linux
+httrack,3,How to download .mp3 files whole site?
+huawei,7,How to Install Huawei Mobile Partner 21 in Ubuntu
+hud,72,"How do I modify or disable the HUD's use of the Alt key?"
+hvr-2250,1,Hauppauge WinTV-HVR-2250 tuner firmware to work in 12.04 Mythubuntu?
+hybrid,21,How do I use pm-suspend-hybrid by default instead of pm-suspend?
+hybrid-efi,5,How to EFI install Ubuntu?
+hybrid-graphics,77,How do I install the Nvidia drivers?
+hyper-v,8,Ubuntu Hyper-V Guest Display Resolution
+i3-wm,15,How to de-uglify i3-wm
+i915,7,How can I fix broken i915 drivers for Intel GPUs?
+ibm,1,Installing IBM Installation Manager (32-bit) on Ubuntu 14.04.1 LTS (64-bit)
+ibm-lotus-notes,1,How to install Lotus 9?
+ibus,18,"""ctrl+space"" has been bound to invoke some input method and does not work in Emacs or Eclipse auto-complete"
+icaclient,1,icaclient on Kubuntu 14.04 x64
+icc,1,How to set display ICC profile in Kubuntu?
+icecast,39,How do I setup an Icecast server for broadcasting audio in my network?
+icecat,1,How to make gmail standard work in Icecat (v.17) - JavaScript problem
+icedtea,7,java plugin in Chromium
+ices,5,How to run an automated internet-radio station in a server environment?
+iceweasel,2,How to install Iceweasel?
+icon-themes,3,Some Nice Icon Themes for Ubuntu
+icons,17,How do I remove an icon from the top panel in GNOME Fallback mode?
+ide,50,Is there an GUI Designer for python?
+ideapad,8,Help identifying device and driver for 0bda:1724
+idevices,1,How to sync iDevices on Pre Ubuntu 10.04?
+idle,7,How to shutdown Ubuntu after (2 hours) of idle?
+idle-python,6,How do I set IDLE as the default editor for Python scripts?
+idm,1,the best downloader software in ubuntu?
+ie,49,How to install Internet Explorer (multiple versions)?
+ifconfig,14,"What is the difference between Network Manager and 'ifconfig' 'ifup' etc?"
+image-editor,23,Is there a program like Microsoft Paint?
+image-processing,38,How to easily resize images?
+image-viewer,1,Substitute for Codonics Clarity Viewer?
+imagemagick,7,How can I install the latest upstream version of ImageMagick without compiling?
+images,38,How to convert PDF to Image?
+imap,11,What can I use to automate backups of Gmail?
+indexing,8,How to make faster first search at Unity-Dash? Way slower than second one
+indicator,514,What Application Indicators are available?
+indicator-message,2,Can i use a window like the unity shortcuts window to show a message?
+indicator-sound,24,Terminal command to set audio volume?
+indicator-syc,1,How to start Ubuntu One indicator from command line
+info,10,"What is the difference between ""man"" and ""info"" documentation?"
+init,51,What is the difference between /etc/init/ and /etc/init.d/?
+init.d,51,What is the difference between /etc/init/ and /etc/init.d/?
+initramfs,10,Boot drops to a (initramfs) prompts/busybox
+inkscape,5,Inkscape with TexText
+inode,6,Find directories with lots of files in
+inotify,12,How can I tell if I am out of inotify watches?
+input,22,Automatically enter input in command line
+input-devices,15,"What is the best way to configure a Thinkpad's TrackPoint?"
+input-language,18,"""ctrl+space"" has been bound to invoke some input method and does not work in Emacs or Eclipse auto-complete"
+input-method,6,How can I input punctuation marks like ellipsis?
+inputrc,1,IM-Config head / tail error
+inspiron,5,Dell Inspiron 3551 Unresponsive Touchpad
+install-from-source,119,How do I install a .tar.gz (or .tar.bz2) file?
+installation,14,"What does ""./configure; make; make install"" do?"
+installed-programs,19,How to list user installed applications (not packages)?
+instant-messaging,6,Why does Pidgin refuse to connect to Facebook Chat?
+insync,5,Does encrypting the hard drive affect file sync with programs like Dropbox Ubuntu One Spider Oak Insync and others?
+integrated,1,Intel HD Graphics (integrated) Minecraft graphical freezes and glitches - graphics driver or card?
+intel,31,How can I get my graphics card to be recognized in System Info?
+intel-cpu,2,Laptop battery life
+intel-graphics,44,How do I setup dual monitors in XFCE?
+intel-hd,2,Can not set proper resolution on this one monitor
+intel-nuc,3,hard crash on gnome x login after 15.10 upgrade
+intel-smart-response,4,Howto run Ubuntu with UEFI and Intel Smart Response Technology
+intel-wireless,99,How to setup an Access Point mode Wi-Fi Hotspot?
+intellij,42,Keyboard locks in IntelliJ IDEA on Ubuntu 14.04
+interface,9,"Why is Unity a ""slow"" desktop environment?"
+internationalization,19,How to set up keyboard layout switching and indication in Xubuntu?
+internet,54,How to check Internet Speed via Terminal?
+internet-connection,8,Can not access Internet (DNS names do not resolve) after update today
+internet-radio,8,Finding stations for Rhythmbox
+interrupts,2,"log error: ""[drm:gen8_irq_handler [i915]] *ERROR* The master control interrupt lied (SDE)!"""
+io,7,What is causing Unity to be slow on startup?
+iodbc,2,How to install iodbc in Ubuntu 12.10
+ios,10,"How to allow iOS 7 iPhone to sync? ""Trust this computer"" appears endlessly"
+iotop,1,What is causing this disk I/O spike?
+iowait,1,Machine stops suddenly Only hard reset can help
+ip,10,Public IP Address for LXC container
+ip-address,9,How do I add an additional IP address to /etc/network/interfaces?
+ip-forward,3,How can I set my linux box as a router to forward ip packets?
+ipad,16,How do I make Ubuntu appear as a bluetooth keyboard?
+iphone,8,Can I sync with my iOS4 device such as iPhone 4 and iPad?
+ipmi,1,MAAS in VMware Workstation Environment to Boot VM Guests
+ipod,14,How can I sync with an iPod Nano 6G?
+ipsec,3,Where to add the Pre-Shared Key for the Server Authentication with Network Manager for L2TP/IPSEC?
+iptables,17,How to save rules of the iptables?
+ipv6,24,How to disable IPv6 in Ubuntu 14.04?
+ipython,2,Amendable console output in Python
+irc,28,Coolest looking terminal IRC client
+ircd-hybrid,4,Ubuntu 12.04 LTS SSL IRC: Unable to build with OpenSSL
+irssi,15,How do I configure irssi?
+iscsi,2,"iscsi_trgt missing because can't build kernel module"
+iso,60,How to burn a Windows .iso to a USB device?
+itunes,9,Is there a way to stream audio/video to an Apple Airplay Device?
+ivybridge,1,13.04 i5 Temperature
+iwlwifi,16,Unstable wireless with Intel 7260 + iwlwifi after upgrade to 15.04
+jabber,2,Jabber client with support of Gtalk XEP-136
+jack,7,Step-by-step to run a midi keyboard input device? 12.04
+japanese,4,How can I copy text from dialog boxes and menus?
+jar,4,How to create a service on Ubuntu Upstart
+java,575,"How can I install Sun/Oracle's proprietary Java JDK 6/7/8 or JRE?"
+javascript,10,Google Chrome not rendering webpages correctly
+jboss,4,"Why isn't there a useful JBoss package?"
+jdk,575,"How can I install Sun/Oracle's proprietary Java JDK 6/7/8 or JRE?"
+jdownloader,3,How do I install jdownloader?
+jekyll,9,How to install jekyll?
+jenkins,2,Jenkins Git Ubuntu Server
+jfs,1,JFS vs. EXT4 vs. EXT3
+jhbuild,1,Trouble with jhbuild installation
+jigdo,3,How to update an ISO image using Jigdo?
+job-control,26,"What to do when Ctrl-C won't kill running job?"
+jockey,20,ATI/AMD proprietary FGLRX graphics install fails how can I resolve the problem?
+join,27,How to split larger files into smaller parts?
+joomla,3,How do I set up local Joomla sites for web developing?
+joystick,20,How do I configure a joystick or gamepad?
+jpeg,34,Jpeg files to pdf
+jre,575,"How can I install Sun/Oracle's proprietary Java JDK 6/7/8 or JRE?"
+jshint,2,How can I get jshint to work?
+juju,29,How do I configure juju for local usage?
+julia-lang,1,How to add a new language definition for syntax highlighting in Gedit?
+jungledisk,3,jungledisk fails with libnotify error
+jupiter,4,How to extract archives to file system in terminal?
+jvm,1,"can't run netbeans as a normal user!"
+k3b,4,How do I create a video DVD from vob files?
+kali,2,Sharing SWAP and /home beteween Ubuntu 15.10 and Kali Linux 2.0
+kate,2,What do I need to start programming?
+kazam,2,Kazam is not recording audio from Logitech USB headset
+kde,12,How to safely try KDE?
+kde-apps,10,How to make KDE applications look native in GNOME?
+kde-connect,1,how to enable kde connect to work over firewall of huawei ec315?
+kde-telepathy,1,KDE Telepathy Google account
+kde4,5,Configure mouse speed (not pointer acceleration!)
+kde5,2,Does anything useful happen during the KDE Plasma5 splash screen load delay? It seems to just waste time
+kdenlive,2,Find missing/moved video clip Kdenlive
+kdevelop,1,Repository for Kdevelop (>=4.4.x)?
+kdm,3,Make KDM the default display manager
+keepass,11,How to integrate KeyPass2 and Firefox using Keefox/PassIFox in Ubuntu 14.04 - 15.04
+keepassx,2,KeePass2 and KeePassX which is more secure?
+kerberos,5,Setup for mounting kerberized nfs home directory - gssd not finding valid kerberos ticket
+kernel,258,How do I remove old kernel versions to clean up the boot menu?
+kernel-modules,8,Command to rebuild all DKMS modules for all installed kernels?
+keryx,1,Keryx Installation error
+key,14,How to disable strict host key checking in ssh?
+key-binding,11,Where does Ubuntu store its keyboard shortcut configuration?
+keyboard,90,How do I remap certain keys or devices?
+keyboard-accelerators,3,GTK+ Custom Accelarator Groups
+keyboard-backlight,4,Turn off keyboard back-light Sony (VAIO SVF1521DCXW)
+keyboard-layout,50,Changing TTY keyboard layout on a server?
+keychain,5,"What is the ""keyring"" or ""keychain""?"
+keycodes,5,How do I fix F10 F11 and F12?
+keyrings,59,"How can I stop being prompted to unlock the 'default' keyring on boot?"
+keys,36,How to fix missing GPG keys?
+keyserver,13,"W: GPG error: http://ppa.launchpad.net precise Release: The following signatures couldn't be verified because the public key is not available:"
+kickoff,1,Kickoff and Krunner to search with less than 3 chars in search field?
+kickstart,3,Unable to install 12.10 with PXE
+kile,3,Downloading and Installing Latest Version of KILE
+kill,19,How do I kill processes in Ubuntu?
+killall,3,how can I see background process in Ubuntu? And kill unnessary processes?
+kindle,7,Managing Kindle Fire with on 12.04 via Micro-USB
+kinect,1,How to use Kinect (Xbox 360) as a Desktop Controller
+kiosk,12,Customize Ubuntu for a library Internet kiosk
+kmail,2,Why does Akonadi on KDE 4.6.0 refuse to start?
+kmix,1,How to completely remove audio (kmix pulseaudio) on kubuntu-desktop for rdp/x2go
+kms,1,Ubuntu on the Sony Vaio VPCY 21S1E
+kmymoney,1,How to create list of installed packages for remove after testing?
+kodi,6,How to improve the quality of music playing in Ubuntu?
+konica,1,How do I install drivers for a Konica Minolta 200?
+konsole,5,How do I change the default browser that konsole opens URLs with?
+kopete,1,How to Voice Chat in Kopete for Google Talk contacts
+korean,2,No input method choice appear on iBus
+korganizer,1,sync korganizer with google calendar
+krunner,1,Are there any alternatives to KRunner for Kubuntu?
+krusader,5,How to list all the files in a tree (a directory and its subdirs)?
+ksnapshot,1,KSnapshot - Upload to Imgur account
+ktorrent,2,web browsing vs. torrent traffic and bandwidth priority?
+kubuntu,16,Unable to change brightness in a Lenovo laptop
+kupfer,1,Desktop entry does not appear in Unity launcher
+kvm,13,KVM Bridged Network Not Working
+kvm-switch,4,"Can I force VGA signal output even when xrandr shows 'disconnected'?"
+kwallet,2,How to reset a password from kwallet?
+kwin,9,Can I restart the KDE Plasma Desktop without logging out?
+kylin,1,Does KuaiPan Cloud Service provide encryption and how does it manage privacy?
+lame,13,Converting mp4 to mp3
+lamp,39,"What's the easiest way to set up a LAMP stack?"
+lan,16,How to see all computers connected to a network
+landscape,28,Are there any open source alternative to Landscape?
+language,13,"'unsupported locale setting' fault by command-not-found"
+language-support,5,How do I switch to another language?
+laptop,31,How can I limit battery charging to 80% capacity?
+laserjet,1,Can only print as root
+last-command,1,"Why the command ""last reboot"" returns several items including ""still running"""
+last.fm-client,2,Last.fm scrobbling on Ubuntu Touch
+latex,41,How do I install the latest TeX Live 2012?
+launcher,207,What Custom Launchers and Unity Quicklists are available?
+launchpad,18,Why does Ubuntu use Launchpad instead of GitHub or Bitbucket?
+launchpad-api,2,How to search for and list available ppas via the python launchpad API?
+launchpadlib,7,How to find out the package download count from a PPA?
+launchy,2,Dash is slow and shows irrelevant results
+layout,4,Is there a way to store the current desktop layout?
+lazarus,2,Cant correctly install Lazarus
+ld,1,dlclose does not call library destructors dlopen called just once
+ldap,11,nslookup finds ip but ping doesnt
+legal,16,Can I legally build and sell desktops with Ubuntu pre-installed?
+lenovo,31,How can I limit battery charging to 80% capacity?
+lenses,142,What lenses for Unity are available?
+less,6,"How can I redirect what is shown on Terminal to a file when using the 'less' command?"
+lexmark,3,How do I get a Lexmark X2600 printer working?
+lg,4,How to remove all LVs VGs and Partitions On All Drives Before Installing 12.04
+libav,2,Ubuntu 14.04 OpenCV3 ffmpeg or libav dependencies
+libgcrypt,6,Unable to install Springseed 2 on Ubuntu 15.04
+libnotify,7,Listening to incoming libnotify notifications using DBus
+libpcap,2,How can I install libpcap header files on Ubuntu 12.04?
+libraries,18,Error loading libGL.so.1
+libreoffice,34,How do I install LibreOffice 4?
+libtiff,2,Dependency is not satisfiable: libtiff4 when trying to install Lightworks on Ubuntu 14.04
+libunity,1,Cannot launch Nautilus due to libunity.so.6 missing
+libvirt,1,virt-install says name is in use but virsh list --all is empty. Where is virt-install finding this name?
+libxml,1,Downgrading libxml2 on 12.04
+license,26,Is there a difference between free software and open source software?
+lid,3,Windows move to external monitor when re-opening lid
+liferea,1,Can I throttle Liferea?
+light-locker,6,Light locker stops background activities (eg. music playback) when screen is locked
+lightdm,110,"How to fix ""The system is running in low-graphics mode"" error?"
+lightning,5,How do I set Lightning as the default calendar app?
+lighttpd,1,Why does Apache start automatically?
+lightworks,2,Dependency is not satisfiable: libtiff4 when trying to install Lightworks on Ubuntu 14.04
+likewise,8,How can I add Ubuntu to a windows domain?
+limit,7,Is there a way to limit the bandwidth that Software Center uses?
+linaro,1,How to build an ARM (Linaro) image in Ubuntu 13.10?
+lintian,1,Packaging nodejs code how do I prevent lintian from complaining about ./node_modules?
+lirc,6,How do I toggle sound with amixer?
+live-cd,14,How can I prevent someone from resetting my password with a Live CD?
+live-environment,15,How do I get my Mac to boot from an Ubuntu USB key?
+live-usb,35,How to create a bootable Ubuntu USB flash drive from terminal?
+livedvd,4,How can I Integrate Ubuntu 32 and 64 bit into a single DVD
+livestreamer,1,How can I set the live stream from ISS HD Earth View as my desktop background?
+lm-sensors,4,Service modules-init-tools not found
+lmms,1,Do Akai masterkeyboards work with LMMS?
+local,3,Non-sudo alternative to /usr/local/bin for common scripts
+locale,138,How do I fix my locale issue?
+localhost,5,Local only sendmail that delivers all mail to a directory
+localization,4,How do I translate a quickly project?
+locally-integrated-menus,2,How to get/enable the new locally integrated menus (LIM) inside of the windows titlebar?
+localrepository,15,Assign highest priority to my local repository
+locate,11,Determine destination location of apt-get install <package>?
+location,4,Unable to understand what jdk location is
+location-bar,2,"How to ""undo"" (revert) Ctrl+L?"
+lock,10,"Install with sudo app-get install doesn't work ""Not using locking for read only file /var/lib/dpkg/lock"""
+lock-screen,23,A timer that automatically locks the screen to take a break away from the computer?
+locked-screen,2,How to make GDM have a limit of incorrect password attempts before action is taken?
+lockup,2,How do I stop my Emachines E443 system from freezing either at the login screen or right after I get in?
+locoteams,4,How do I organize an Ubuntu party or get together?
+log,90,Where is the cron / crontab log?
+logging,50,How can I monitor the memory usage?
+login,79,Ubuntu gets stuck in a login loop
+login-screen,110,"How to fix ""The system is running in low-graphics mode"" error?"
+logitech,45,"Is Logitech's Unifying receiver supported?"
+logitech-unifying,45,"Is Logitech's Unifying receiver supported?"
+logo,25,How can I customize the Ubuntu boot up logo?
+logout,44,How can you log out via the terminal?
+logrotate,3,Configuring logrotate without root access (per user log rotation)
+logs,11,What automated intrusion notification/detection setup is good for home desktop use?
+looking-glass,2,"Drop down terminal as smooth as gnome-shell's 'looking glass'"
+low-power,4,How do you limit root partition disk access to allow drive to go into standby mode?
+lowgraphics,9,After apt-get upgrade system always boot to low-graphics mode
+ls,17,How do I change the color for directories with ls in the console?
+lsb-release,2,Does upgrading Ubuntu kernel change its release name?
+lsof,1,"What means this error message: lsof: WARNING: can't stat() fuse.gvfs-fuse-daemon file system /home/nes/.gvfs "
+lspci,1,PCIE USB 3.0 Controller not working
+lsusb,2,lsusb - where device description comes from
+lts,24,"What's the difference between a Long Term Support Release and a Normal Release?"
+ltsp,2,How do I wake up the printer when it sleeps?
+ltsp-client,2,LTSP client image load hangs on Ubuntu 14.04 LTS
+lua,4,"running wireshark ""Lua: Error during loading"""
+lubuntu,13,How do you set system display color profiles in Xubuntu and Lubuntu?
+luks,38,How do I enable Ubuntu (using full disk encryption) to call LUKSsupend before sleeping/suspending to RAM?
+lvm,38,How do I enable Ubuntu (using full disk encryption) to call LUKSsupend before sleeping/suspending to RAM?
+lvmcache,4,How to install Ubuntu with both disk encryption AND SSD caching
+lxc,29,How do I configure juju for local usage?
+lxd,1,Start a screen session inside LXD-managed container
+lxde,11,Where are the LXDE sound preferences?
+lxdm,2,no login screen after change from lightdm to xdm
+lxpanel,2,lubuntu (lxde desktop) - is there any device notifier in panel?
+lxqt,3,How to install LXQt DE in Ubuntu 14.04 LTS?
+lxrandr,2,Where does LXRandr save its display configurations?
+lxsession,2,What is lxsession?
+lxterminal,1,LXTerminal and XTerm Resize Command
+lynis,1,How to add legal banner in /etc/issue and /etc/issue.net in Ubuntu?
+lynx,4,Command line web browser using SSH is there any way i can use
+lyrics,4,How can I fetch lyrics for all my music and store them within the files?
+lyx,28,Is it possible to make indicator-appmenu ignore a specific application?
+m4a,11,How to convert a m4a sound file to mp3?
+maas,7,How to configure MAAS to be able to boot virtual machines
+mac,12,How do I access my remote Ubuntu server via X-windows from my Mac?
+mac-mini,2,Using Thunderbolt Port (Mini Displayport) for second monitor 15.10
+macbook,22,What is different about the Mac ISO image?
+macbook-air,4,How to install on a MacBook Air 32 without an external CD drive?
+macbook-pro,9,"Ubuntu can't detect wifi networks on macbookpro 13.3"
+macbuntu,1,How to install Macbuntu in 12.10?
+macosx,9,What are the differences between Mac OS and Linux?
+madwifi,1,How to install madwifi?
+magic-mouse,7,How do I get the Apple Wireless Keyboard Working in 10.10?
+magic-trackpad,13,How can I disable arbitrary default multitouch gestures in Unity?
+mail,31,How to have my PHP Send mail?
+mail-notification,2,Unattended-upgrades mail only on error or reboot?
+mail-server,17,Setup DKIM (DomainKeys) for Ubuntu Postfix and Mailman
+maildir,2,Gnu Mailutils configuration to directly operate on maildir?
+mailing-list,1,What are mailing lists and how do they function?
+mailutils,2,Gnu Mailutils configuration to directly operate on maildir?
+mainline-kernel,9,"Should I upgrade to the ""mainline"" kernels?"
+maintenance,18,Is system cleanup/optimization needed
+make,16,I installed a program by getting its source code and then running `sudo make install`; how to make `apt-get` know about it?
+makefile,14,"What does ""./configure; make; make install"" do?"
+makerware,1,How can I fix this dependency issue that broke Makerware with my last update?
+malware,47,"Do I need to have 'antivirus software' installed?"
+man,1,some man pages not found
+manpage,19,How can I search within a manpage?
+margin,7,How can I cut the margin of a PDF or djvu file for optimal booklet printing?
+mariadb,14,How to install MariaDB?
+markdown,6,"Is there any text editor which supports Markdown (Ask Ubuntu's formatting style)?"
+marlin,4,How to change the file manager from Nautilus to Marlin
+mass-storage,5,How to run a shell script when a new USB storage device is detected?
+master-pdf-editor,2,How to install Master PDF Editor in Kubuntu 12.04 (64bit)
+mate,12,How do I install MATE (the desktop environment)?
+math,4,bc: set number of digits after decimal point
+matlab,10,How do I make a Matlab launcher for Unity?
+matrox,1,Matrox M9128 Driver Install
+maven-3,16,How to permanently set environmental variables PATH and M2_HOME in ubuntu for maven3?
+maximized,6,How to start terminal in full screen?
+mbox,1,evolution error: mbox sent folder invalid URI
+mbr,9,How to boot into Windows 7 when grub is installed in the Windows partition?
+md5sum,12,How to get the MD5 hash of a string directly in the terminal?
+mdadm,13,How do I align my partition table properly?
+mdm,1,mdmsetup returns exit status 1
+media,36,How can I convert audio from MP4 or FLV video files to mp3?
+media-buttons,13,How to disable global <Super>-p shortcut?
+media-library,3,Audio players that access music library as file browser (and see folder structure)
+media-manager,5,How should I set up a Linux file server for data sharing with Windows PCs and a PS3?
+mediaserver,6,"Plex Media Server: Won't find media External Hard Drive"
+mediatek,1,Ubuntu freezes when connecting to Wifi hotspot
+mediatomb,1,How do I get Upstart to start my Mediatomb service?
+mediawiki,2,Where can I find the Ubuntu wiki theme?
+medibuntu,4,How can I read every DVD even if encrypted by CSS or other?
+meego,1,Turning MeeGo into Ubuntu or Lubuntu
+mega,4,How do I install the Mega Sync Client
+meizu-mx4,4,Meizu MX4 gps possibly not working
+memenu,3,How can I automatically set my status to Available when I log in?
+memory,50,How can I monitor the memory usage?
+memory-leak,15,loadparm.c:4864 leaking memory?
+memory-test,1,Ubuntu Memory Test
+memory-usage,50,How can I monitor the memory usage?
+memtest,4,How do I run memtest86+?
+mencoder,3,Concatenating AVI videos
+menu,21,How to get to the GRUB menu at boot-time?
+menu-bar,3,How can I fully maximize wine applications?
+mercurial,7,Any complete GUI interface for Mercurial?
+merge,40,How to merge several PDF files?
+mesa,16,What is terminal command that can show OpenGL version?
+messages,14,How can I show or hide boot messages when Ubuntu starts?
+messaging-menu,7,Is there a way to add Google Calendar notifications to the indicator message applet?
+messaging-tray,3,Ubuntu 13.04 Pidgin Tray
+metacity,18,What is the relationship between Unity Gnome Gnome 3 Compiz Metacity and LightDM?
+metadata,17,How to edit pdf metadata from command line?
+metapackages,22,How to create a meta-package that automatically installs other packages?
+mib,1,Problem with SNMP and MIBs
+micro-sd,1,Error in formatting corrupted Micro Sd Card
+microphone,12,How to hear my voice in speakers with a mic?
+microsoft,12,How to install Visual Studio Code on Ubuntu?
+microsoft-keyboard,10,"how to get Microsoft Natural Ergonomic Keyboard 4000's zoom slider (and other buttons) to work?"
+microsoft-lync,14,Setting PIdgin up for Lync2013
+microsoft-mouse,6,Microsoft Designer Mouse (Bluetooth 4.0) on Ubuntu 14.04 LTS
+microsoft-office,15,Can I install Microsoft Office? If so how?
+microsoft-powerpoint,1,Powerpoint compatibility in ubuntu and windows
+microsoft-word,3,"Why is Microsoft Word complaining about Libre Office's .odt files being corrupt?"
+midi,10,How does one set up a MIDI keyboard
+midnight-commander,1,"Is there something similar to ""open with"" in nautilus for midnight commander?"
+midori,2,"Why does Ubuntu's webkit inspector look (and work) just like Safari?"
+migration,8,Migrating from Mac to Ubuntu What will I miss?
+mime-type,17,Where are file associations stored?
+minecraft,12,How to install Minecraft (Client)
+mingw32,1,How to setup Qt Creator to compile Windows executables?
+minicom,1,How to detect & configure a upnp USB to serial adaptor for RXTX development in Java
+minidlna,1,"minidlna and samsung tv file format doesn't support"
+minimize,4,How to bring back minimize and maximize buttons in Gnome 3
+minitube,5,Why is Minitube not working anymore?
+mint,10,Difference between Ubuntu and Linux Mint
+mir,5,Why did Canonical choose Mir over Wayland as the display server?
+miro,2,Is there a way to get Miro to use flash?
+mirrors,71,How can I get apt to use a mirror close to me or choose a faster mirror?
+mkdir,6,Is there a way to create multiple directories at once with mkdir?
+mkv,34,How to convert .mkv file into .mp4 file losslessly?
+mmc,2,udev and eMMC rpbm partitions
+mms,5,Where are SMS and MMS stored?
+mobi,8,pdf to mobi convertor
+mobile-broadband,11,How to enable/disable mobile broadband from terminal?
+mod-rewrite,2,Enabling .htaccess file to rewrite path (not working)
+mod-ssl,1,POODLE: Disabling SSLv3 in Apache
+mode,6,How do I set up an mp3 alarm clock?
+modelines,1,gedit modelines - What are they? How do they work?
+modem,2,How do I tether to a Nokia E61 mobile phone?
+modem-manager,4,How can I remove modem-manager from boot?
+modprobe,8,"What's the difference between insmod and modprobe?"
+modules,10,"""no symbol version for module_layout"" when trying to load usbhid.ko"
+mogrify,3,Resize large images with mogrify (ImageMagick) but leave small images unaffected
+mongodb,17,MongoDB 2.6 does not start on Ubuntu 15.04
+monitor,17,How to set the monitor to its native resolution which is not listed in the resolutions list?
+monitoring,119,How do you monitor the progress of dd?
+mono,13,Upgrading to latest stable Mono
+monochrome,1,How could I make my display monochrome?
+monodevelop,17,How can I install MonoDevelop v4 on 12.04?
+moonlight,7,how can I install moonlight for Chrome in 12.04?
+more,2,What is the default PAGER used by man pages?
+motd,7,"Persistent ""disk will be checked..."" in the message of the day (motd) even after reboot"
+motherboard,2,Do I need to reinstall OS if changing motherboard?
+motif,1,How can I run Citrix Receiver on 13.04 x64?
+motion,2,"How can I access the H264 stream from my IP-camera with ""Motion""?"
+motu,15,What are the biggest barriers to walking the MOTU/developer path?
+mount,85,Unable to mount Windows (NTFS) filesystem due to hibernation
+mountpoint,24,Where are MTP mounted devices located in the filesystem?
+mouse,55,How do I set focus follows mouse?
+mouse-pointer,1,Ubuntu 14.04 64Bit : Cursor lag when mouse cursor changes?
+mouse-scroll,17,How to change my mouse wheel scroll rate?
+mouse-wheel,17,How to change my mouse wheel scroll rate?
+mozc,1,How do I switch input modes in mozc without going to the IBus menu?
+mozilla,1,How to update Mozilla Firefox web browser on 64-bit Ubuntu 12.04 LTS in a safe secure reliable efficient and easiest way?
+mp3,36,How can I convert audio from MP4 or FLV video files to mp3?
+mp3-player,16,Command line audio players
+mp3-tag,2,"Rename folders to music's id3 tags?"
+mp4,36,How can I convert audio from MP4 or FLV video files to mp3?
+mpd,2,mpd conflicting with other applications -- taking control of pulse?
+mpi,1,What is the difference MPI vs OpenMP?
+mplayer,9,Have tearing (no Vsync) in movies (Nvidia proprietary driver)
+ms-dos,1,Is there a way to run MS-DOS alongside/within Ubuntu?
+ms-exchange,8,Exchange with Evolution or any other mail client
+msi,3,Getting MSI GT70 GT60 ONC LEDs on SteelSeries keyboard working?
+msn,5,Problems Connecting MSN with empathy
+mta,3,How do I configure exim4 to send mail through a password protected ssl smtp mail server?
+mtp,36,Getting MTP enabled devices to work with Ubuntu?
+multi-core,10,Multi-Core Compression tools
+multi-touch,23,Mac like MultiTouch support
+multi-user,2,Ubuntu 14.04 Mouse Pointer/cursor disappears when changing user
+multiarch,50,What happened to the ia32-libs package?
+multiboot,1,Boot process enters an infinite loop after installing Ubuntu 11.04 together with Windows 7 and XP
+multimedia,24,Video editing software options?
+multiple-desktops,2,Multiple wallpapers in GNOME Shell
+multiple-instances,6,Open another terminal window with the same SSH session as original window
+multiple-monitors,47,How do I disable mouse magnet on middle edge with multi monitors?
+multiple-users,9,How can I set up Samba shares to only be accessed by certain users?
+multiple-workstations,5,What are the options for managing multiple Ubuntu installations together and keeping them in same state
+multipointerx,5,Is there a gui application for managing multiple mice/keyboards?
+multiseat,7,How do I configure sound with PulseAudio and Multiseat?
+multiverse,3,Why does Ubuntu provide the Multiverse repository?
+mumble,2,Is there a way to modulate my voice on the fly?
+munin,1,munin 404 after upgrading to 14.04
+muon-package-manager,2,Why is Muon on KDE failing with multiple package errors?
+mupdf,6,Is there a comprehensive list of mupdf keyboard shortcuts?
+music,44,How to find (and delete) duplicate files
+music-player,6,How to play mp3 files from the command line?
+mute,3,Audio jumps to full volume or mutes randomly
+mutt,6,How to manage multiple imap accounts with mutt
+mutter,2,Mutter: Global menu integration
+mv,10,mv: Directory not empty
+my-weather-indicator,1,"Can't launch my-weather-indicator"
+mysql,41,How do I start/stop mysql server?
+mysql-workbench,6,Installing Mysql Workbench on ubuntu 14.04
+mythbuntu,3,How do I configure WiFi to log in to WPA at boot time regardless of user being logged in?
+mythtv,3,What software is available to use TV tuner card?
+myunity,3,How do I install Myunity on 12.10?
+nagios3,18,I need a good network monitoring tool
+naming,1,What does `lsb` stands for in `lsb_release`?
+naming-conventions,5,Is it safe to rename special user folders?
+nano,39,How do I enable syntax highlighting in nano?
+nas,14,How to set up Ubuntu Server as a NAS?
+nat,10,What are the risks of NOT using a firewall (home computer)?
+nautilus,87,"How to add ""Open terminal here"" to Nautilus' context menu?"
+nautilus-actions,4,How to open a folder in a new pane in Nautilus?
+nautilus-elementary,3,"How do you create a ""new document"" keyboard shortcut?"
+nautilus-extensions,4,How to get Nautilus-scripts working Nautilus?
+nautilus-script,7,How can I install a Nautilus script?
+navigation,2,Adding description to files for easy remembering
+ncurses,13,Is there a file explorer/manager for the command line?
+ndb,3,How do I set up Mysql Cluster?
+ndiswrapper,9,"How to fix ""ndiswrapper not found""?"
+neatx,13,What free Remote Desktop (server) solutions are there?
+nemo,12,Make nemo the default file browser
+nessus,4,Vulnerability Scanner nmap vs Nessus
+netbeans,33,Ugly fonts in Netbeans - How can i make it use the system font?
+netcat,3,How to build a simple chat using netcat?
+netflix,28,How can I use Netflix on Ubuntu?
+netgear,1,Netgear N300 WNA3100 Install Ubuntu 13.04
+nethogs,2,Nethogs ? creating socket failed while establishing local IP - are you root?
+netinstall,1,How Can I Make Preseed Work With PXE Netboot?
+netstat,10,How to check opened/closed port on my computer?
+network-bonding,8,How to merge multiple internet connections into one
+network-bridge,13,KVM Bridged Network Not Working
+network-drive,2,14.04 always asks for password for a network drive (sftp)
+network-manager,50,"network manager says ""device not managed"""
+network-monitoring,18,I need a good network monitoring tool
+networking,140,Command for determining my public IP?
+nexus-4,6,Problems with mtp on Nexus 4 and Ubuntu 13.10
+nexus-7,23,How do I connect a Nexus 7 to transfer files?
+nfc,2,How to use NFC?
+nfs,29,Which to use NFS or Samba?
+nftables,1,Where to get nftables?
+nginx,36,What is the easiest way to enable PHP on nginx?
+nic,4,How can I verify the speed of my NIC in ubuntu?
+nice,12,Change niceness (priority) of a running process
+nimbuzz,2,"How to install and use NIMBUZZ! "
+nitro,1,How to add Nitrotasks to startup applications in Ubuntu 12.10?
+nitroshare,2,How to install latest version of Nitroshare on Ubuntu?
+nmap,4,Vulnerability Scanner nmap vs Nessus
+nmcli,1,Difference between iwconfig and nmcli
+nodejs,79,How can I update my nodeJS to the latest version?
+nohup,4,"Differences between ""<command> & disown"" and ""nohup <command> & disown"""
+noise,9,Strange noise in headphones when no sound is played
+nokia,3,Unable to mount/access phone after upgrade to Ubuntu 14.04
+nomodeset,16,"How do I set 'nomodeset' after I've already installed Ubuntu?"
+non-pae,4,How to replace a PAE kernel with non PAE Kernel?
+notes,2,Note taking software that can support advanced math notation
+notification,22,How to customize on screen notifications?
+notification-area,30,How do I access and enable more icons to be in the system tray?
+notify-osd,22,How to customize on screen notifications?
+notify-send,14,How can I send a custom desktop notification?
+nouveau,11,Remove nVidia driver and go back to Nouveau
+nova,1,How does the block-device config setting on the LXD Juju charm work?
+novell-netware,2,GroupWise support on Evolution Ubuntu 13.10
+npm,29,Npm errors when installing packages on windows share
+nrpe,2,nagios nrpe dameon check_nrpe plugin missing
+ns2,1,how to set a node to sleep in ns2
+ntfs,85,Unable to mount Windows (NTFS) filesystem due to hibernation
+ntfs-3g,2,Remove RECYCLER directory from virus infected flash drive
+ntop,1,Ntop-ng unable to login into WebUI?
+ntp,59,How to force a clock update using ntp?
+numlock,24,How to enable numlock at boot time for login screen?
+numpad,10,XUbuntu: Make Shift+NumPad work like Windows
+numpy,2,How to update to the latest numpy and scipy on Ubuntu 14.04LTS
+nut,2,How to configure UPC with USB connection
+nux,7,"What is nux and what's it used for?"
+nvidia,98,Is a NVIDIA GeForce with Optimus Technology supported by Ubuntu?
+nvidia-current-dev,4,Why is Ubuntu unable to mount my hard drive when I use Nvidia Discrete graphics?
+nvidia-geforce,2,GPU utilization is N/A when using nvidia-smi
+nvidia-optimus,98,Is a NVIDIA GeForce with Optimus Technology supported by Ubuntu?
+nvidia-prime,14,"Can't switch anymore from Intel to NVIDIA GPU"
+nvidia-settings,5,"Can't save nvidia settings for screens after reboot"
+nvme,1,Ubuntu 15.10 does not boot on Intel NUC6i3 with Samsung 950 Pro PCIe NVME SSD
+nx,10,Add Fake Display when No Monitor is Plugged In
+oauth,3,How do I use OAuth from an Ubuntu Touch app?
+objective-c,5,How to compile/build and run Objective-C program in Ubuntu using Terminal?
+ocr,20,"What's the best simplest OCR solution?"
+octave,51,How can you completely remove a package?
+oem,15,How do I pre-install Ubuntu for someone (OEM install)?
+office,6,How do I print to PDF from wine?
+office-communicator,5,Lync (formerly Office Communicator) with pidgin-sipe => Read Error
+official-repositories,8,"What's the difference between multiverse universe restricted and main?"
+offline,2,Can I use Kubuntu Live CD to install kubuntu-desktop package on a Ubuntu installation?
+ogg-opus,3,How to convert a sound file to Opus
+ogg-vorbis,3,Convert downloaded YouTube videos (downloaded with youtube-dl) to audio-only with no loss?
+okular,7,How to Install Okular 0.15 on 12.04 LTS?
+omegat,1,Suitable Java Binary not found
+onboard,2,How can I make Onboard the visual keyboard open in Ubuntu on startup?
+one-hundred-paper-cuts,2,What are the different ways I can contribute to the One Hundred Paper Cuts project?
+oneconf,2,How do I remove a PC from the synced list
+online-accounts,11,"Which programs use the new ""Online Accounts""?"
+online-storage,3,jungledisk fails with libnotify error
+onscreen-keyboard,3,fcitx process using more memory
+open-source,26,Is there a difference between free software and open source software?
+openbox,13,How can I logout from the GUI using CLI?
+openchrome,3,How to install LLVMpipe?
+opencl,26,How can I get nVidia CUDA or OpenCL working on a laptop with nVidia discrete card/Intel Integrated Graphics?
+openconnect,2,How do I use OpenConnect via Network Manager to connect to Juniper VPN?
+opencv,5,Installing opencv
+opendns,4,What is my DNS server?
+openerp,1,Odoo does not work via port 8069 on xubuntu 14.04
+opengl,16,What is terminal command that can show OpenGL version?
+openjdk,61,How to completely uninstall Java?
+openldap,2,How to allow LDAP user to change password?
+openoffice.org,12,What is the difference between OpenOffice and the newly created LibreOffice?
+openpgp,25,How do I make a PGP key?
+openshot,6,Best Professional Video editor for Linux equivalent to Sony Vegas Pro?
+openssh,30,Does ssh key need to be named id_rsa?
+openssl,43,How to patch the Heartbleed bug (CVE-2014-0160) in OpenSSL?
+openstack,20,How do I install OpenStack?
+openstack-autopilot,5,How should I setup MAAS so that it can be used by the Canonical OpenStack Autopilot?
+openswan,3,"E: Package 'openswan' has no installation candidate"
+openvas,2,Unable to install OpenVas in Ubuntu 12.04
+openvpn,26,How do I setup OpenVPN so I can securely use the internet from an unsecured hotspot?
+openvz,8,In a bash script what does a dot followed by a space and then a path mean?
+opera,3,"can't use flash in ubuntu 13.10"
+optical,5,"How can I share an optical drive in a way that fools the client into thinking it's a local drive?"
+optimization,31,How can I limit battery charging to 80% capacity?
+oracle,78,How to install Oracle Java on Ubuntu 14.04?
+orca,8,How do I stop Orca Screen Reader?
+orchestra,6,What is Orchestra and how do I use it?
+org-mode,2,How to use the latest stable version of org-mode?
+organizer,5,Any programs to help tag/organize files?
+orientation,9,How to lock ubuntu device orientation in portrait or landscape from user input?
+os-prober,2,"os-prober doesn't find Arch Linux until I manually mount Arch Linux partition"
+oss-sound-system,2,How to fix sound in wolfenstein Enemy Territory
+ossec,1,OSSEC installation auto-start?
+output,20,How to record output to speakers?
+overclocking,3,AMD CPU overclocking software?
+overheating,12,How do I get fan control working?
+overlay-scrollbars,60,How do I disable overlay scrollbars?
+overlayfs,2,The best way to create a root filesystem split between read only and writable
+owncloud-client,1,Protect local copy of file from server-side deletion
+owncloud-server,8,How to sync contacts and the calendar on Ubuntu Touch with OwnCloud
+ownership,2,"Sudo doesn't work: ""/etc/sudoers is owned by uid 1000 should be 0"""
+oxygen,1,Oxygen-gtk theme on ubuntu 12.04
+p2p,3,"What's the statue of Wifi Direct in Linux/Ubuntu"
+package-info,5,Set difference of packages installed on 2 machines
+package-management,385,How to list all installed packages?
+packaging,37,What is the simplest Debian Packaging Guide?
+packet-analyzer,6,How to install driver for TP-Link TL-WN722N on Ubuntu 14.04?
+pae,19,"How can I install on a non-PAE CPU? (error ""Kernel requires features not present on the CPU: PAE"")"
+pager,2,What is the default PAGER used by man pages?
+pagestack,1,"How to go back from a PageStack's Page to the parent tab in the UI Toolkit"
+paid-applications,3,"Why do some commercial apps have a section called 'also requires' and free apps don't?"
+paint,1,Gimp too complicated; Pinta/GnuPaint/etc. too simple
+palm,3,Palm detection not working in xfce on Ubuntu Studio 15.10
+pam,29,How can I use a passcode generator for authentication for remote logins?
+pam-environment,6,how to setup two factor authentication in Ubuntu for Ubuntu users using Google authenticator?
+pandoc,1,"pandoc on Ubuntu can't use beamer"
+pandora,1,Ubuntu 13.04 Clean install Pandora does not work
+panel,32,What can replace system monitoring in the top Gnome Panel in Unity?
+panel-applets,1,"Wireless network icon won't display on the panel"
+panorama,5,Stitch scanned images using CLI
+pantheon,22,How to install the Pantheon desktop environment?
+parallels,7,Ubuntu 13.10 Macbook Air Mavericks Parallels 9 Black Screen
+parental-controls,26,What is the best way to restrict access to adult content?
+parted,1,Server partition problem /boot full
+partial-upgrade,3,How do I upgrade python-scipy to something newer than 0.7.0?
+partitioning,58,How to use manual partitioning during installation?
+partitions,20,Detect and mount devices?
+pascal,2,PASCAL/FORTRAN/C++ compilers
+passphrase,3,gpg-agent: how to limit the passphrase cache retention time
+passwd,2,Rename /etc/passwd and /etc/shadow for security reasons
+passwd-file,6,Why is everybody so concerned about etc/passwd?
+password,40,How do I run specific sudo commands without a password?
+password-recovery,178,How do I reset a lost administrative password?
+paste,2,Global keyboard shortcut for copy cut and paste
+pastebin,10,How do I investigate boot and partition issues?
+patch,26,How to install specific Ubuntu packages with exact version?
+paths,5,How to find python installation directory on ubuntu
+pavucontrol,11,How can I use PulseAudio virtual audio streams to play music over Skype?
+pbuilder,9,Why use sbuild over pbuilder?
+pbuilder-dist,3,how to do a pbuilder-dist build with dependencies in a ppa?
+pci,2,Ubuntu 15.04 freezes for a second every 6-10 seconds PCI/Radeon related messages in kern.log
+pcie,5,How do I turn on wireless adapter on HP Envy dv6 7200 under Ubuntu (any version)?
+pcmanfm,10,How to set PcManFm as the default file manager?
+pcsx2,2,PCSX2 on Ubuntu
+pdf,80,How can I reduce the file size of a scanned PDF file?
+pdf-bookmarks,5,How do I query the gvfs metadata for a specific attribute?
+pdfgrep,6,How do I search a PDF file from command line?
+pencil,5,Pencil export page as PNG does not work
+pentesting,1,Wash -i mon0 no output
+performance,198,How can I improve Ubuntu overall system performance?
+peripherals,3,How to make HP IR6 remote control work?
+perl,13,How to set locale?
+permanent-delete,2,Is there a GUI program to securely delete files and folders?
+permissions,99,"Whats the simplest way to edit and add files to ""/var/www""?"
+persistence,2,"Why doesn't my live USB save settings even though I have a persistence file?"
+persistent,14,Can I install Ubuntu to my 32 GB USB pen drive?
+personalization,2,"How to change tooltip's background color in Xfce?"
+pg,1,upgrade pgadmin3 1.16 to 1.18
+pgp,10,Difference between PGP and GPG
+phone,6,Is there a PC-to-phone application?
+phonon,3,Managing multiple sound cards in Kubuntu - more reliable way than KDE phonon GUI?
+photo,5,What is the best alternative to Picasa?
+photo-management,23,How can I find duplicate photos?
+photography,11,Lightroom alternative?
+photorec,1,Recovering lost space due to PhotoRec
+photoshop,13,How can I install photoshop cs6 on ubuntu 14.04?
+php,90,How do I install latest PHP in supported Ubuntu versions (like 5.4.x in Ubuntu 12.04)?
+php5-fpm,1,How to upgrade to PHP 5.5.25(The Latest Stable Released Version of PHP) on Ubuntu 12.04 LTS 64-bit OS?
+php7,19,How to install PHP 7?
+phpmyadmin,34,Mcrypt extension is missing in 14.04 server for mysql
+phppgadmin,11,PHPPgAdmin not working in Ubuntu 14.04
+pianobar,1,How do I set up last.fm scrobbling with pianobar?
+picasa,1,Download picasa web photos without picasa
+pictures,1,Android Photos Not Viewable
+pidgin,15,How to keep Thunderbird and Pidgin running on background?
+pidgin-sipe,14,Setting PIdgin up for Lync2013
+pim,2,Mail client independent address and calendar program?
+ping,11,nslookup finds ip but ping doesnt
+pinning,11,Install packages from newer release without building (apt pinning)
+pinyin,6,My IBus pinyin broke with 14.04 release upgrade
+pip,13,apt get install vs pip install
+pipe,43,"What is the difference between ""Redirection"" and ""Pipe""?"
+pipelight,2,Is there an equivalent of Silverlight?
+pitivi,2,How to use Pitivi to insert text in video?
+pixma,3,Printer driver for Canon MX452
+pkexec,11,How to configure pkexec?
+pkg-config,5,PKG_CONFIG_PATH environment variable
+places,12,"How to customize (add/remove folders/directories) the ""Places"" menu of Ubuntu 13.04 ""Files"" application?"
+plank,1,plank has duplicate icons for added launchers in LXDE
+plasma,6,What is a activity in KDE and what can I do with it?
+plasma-5,3,KDE Plasma 5 Missing Removable Devices Option
+plasma-netbook,1,Install KDE 4.9 Plasma Netbook on 12.04
+platform-integration,2,How to fix Netbeans 7.4 (and Netbeans 8.0) Ugly Text and Popups in Ubuntu 13.10?
+playback,28,How to install H.265 / HEVC codec on Ubuntu Linux?
+playlists,4,Is there any video player that plays Youtube playlists?
+playonlinux,13,Change Icon of Wine Application in Unity Launcher
+plex,6,"Plex Media Server: Won't find media External Hard Drive"
+plexmediaserver,2,Problems starting plexmediaserver on Kubuntu 15.04
+plover,1,python-wxgtk2.8 for Ubuntu 14.04
+plugins,17,Installing Chrome Java Plugin
+plymouth,47,Enabling Nvidia driver messes up splash screen
+pm-utils,1,Have PM utils power.d scripts run all the time
+png,5,Tool to convert a sequence of numbered PNG files to an animated GIF?
+podcast,5,How do I download iTunes podcasts with hpodder or other software?
+pointers,6,How do I get and install more themes icons and pointers?
+policy,8,How to change/disable password complexity test when changing password?
+policykit,18,When to use pkexec vs. gksu/gksudo?
+polipo,3,How to clean /var/cache?
+popcon,2,"What is the 'popularity-contest' package for?"
+popup-ads,5,Popup ad virus on both chrome and firefox
+port-forwarding,31,How to create a restricted SSH user for port forwarding?
+portable,2,"Are there ""portable"" versions of Opera for Linux/Ubuntu?"
+porting,2,Has anyone got Ubuntu Touch working on Nexus 5?
+porting-ubuntu-touch,1,Port Ubuntu touch on MSM8916 - display overlay get wrong resolution
+poster,1,Printing a poster (over several sheets of paper)
+postfix,17,Setup DKIM (DomainKeys) for Ubuntu Postfix and Mailman
+postgres,4,Postgres password authentication fails
+postgresql,15,How do I migrate my postgres data from 8.4 to 9.1?
+postgresql-8.4,19,How to remove Postgres from my installation?
+poulsbo,2,Does Ubuntu include support for the Intel GMA 500?
+povray,2,POV Ray installation - configure error
+power-cog,3,"How do I get ""restart"" option in the shutdown menu in Unity?"
+power-management,165,How to enable hibernation?
+powerline-plugin,92,How can I install and use powerline plugin?
+powernap,7,How to disable auto power off of usb devices like usb mouse?
+powerpc,1,Apple G4 733Mhz and 512Mb Ram... Any suggestions on what to use for good performance?
+powertop,19,How do I make Powertop changes permanent?
+ppa,265,How do I resolve unmet dependencies after adding a PPA?
+ppc,1,PowerPC version of Ubuntu 10.10 or 10.04 wont boot on my Mac
+ppp,3,Dialing into multiple PPP connections
+pppoe,2,"Why doesn't Network Manager use system network scheme?"
+pptp,35,Connect/disconnect from VPN from the command line
+pptpd,4,PPTP connection disconnect
+preferences,4,Switch from path bar to location bar permanently in Nautilus
+prefix,1,"What does error : ""prefix"" is not set and error: ""prefix"" not found means?"
+preinstallation,2,Ubuntu for Lenovo E531
+preload,16,"Drawbacks of using preload? Why isn't it included by default?"
+presario,1,Wireless not recognised on a Compaq Presario CQ57
+preseed,6,How can I customize the Ubuntu installer?
+presentation,6,Light easy to use Presentation software
+prevent,2,How to inhibit suspend temporarily?
+previews,8,How do I enable MP3 preview?
+primus,2,optirun/primusrun cannot load GPU driver on Ubuntu 15.04
+print-screen,5,How can I print-screen just one window and not my entire desktop?
+printing,13,How can I easily set up a Google Cloud Print printer?
+prism,3,Why is Firefox Prism not in the repositories anymore?
+privacy,14,I have permanent connections to Canonical servers what are they for and how can I turn them off?
+privileges,21,How do I grant sudo privileges to an existing user?
+privoxy,1,Bypass Authenticated HTTP Proxy :Ubuntu
+proc,10,How do I make changes to /proc/acpi/wakeup permanent?
+process,52,"What is the equivalent of 'Control-Alt-Delete'?"
+process-priority,12,Change niceness (priority) of a running process
+production,1,Production-ready hardened edition of Ubuntu Server?
+productivity,3,Looking for a linux equivalent to Trans Lucy
+proftpd,1,"Can't connect to froxlor clients via SFTP"
+programming,72,How to learn vim on a high level?
+project-management,5,Is there a project management software for Ubuntu like Microsoft Project?
+projector,3,How should I present a slideshow consisting of PDFs?
+promotion,2,Is it legal to use Ubuntu name for my cybercaf�?
+prompt,92,How can I install and use powerline plugin?
+proposed-updates,4,"What is the ""proposed"" repository?"
+proprietary,14,How to fix plymouth (splash screen) in all Ubuntu releases!
+protocol,1,"What protocol does Empathy's ""People Nearby"" use and what other chat programs use it?"
+proxy,42,How do I set systemwide proxy servers in Xubuntu Lubuntu or Ubuntu Studio?
+ps,16,What do the STAT column values in ps mean?
+ps1,33,How can I shorten my command line (bash) prompt?
+ps3,5,How should I set up a Linux file server for data sharing with Windows PCs and a PS3?
+pstree,2,Find children of the process
+ptp,6,Getting files to/from android phone
+pulseaudio,45,Skype and VLC sounds sizzle/distorted/bad
+puppet,28,"What's the difference between Juju and Puppet/Chef?"
+purchase,2,Why should I go through the purchasing process to install a product priced $0.00?
+pure-ftpd,11,"Upstart script doesn't start"
+purge,11,"Can I automatically purge every package I've ever uninstalled?"
+putty,6,Saving SSH shell links in launcher like putty
+pxe,8,PXE Boot Server Installation Steps in Ubuntu Server VM
+pygi,4,How to get rid of the background gradient of the inline GtkToolbar?
+pygtk,8,How to add a pygtk Widget to the Glade palette?
+pyqt,24,Should I use PyQt or PySide for a new Qt project?
+pyqt5,1,Python3 + ipython + pylab on Ubuntu 14.04
+pysdm,3,PYSDM missing in Ubuntu 12.10 and higher
+pyside,24,Should I use PyQt or PySide for a new Qt project?
+python,56,How do I sudo a command in a script without being asked for a password?
+python-2.7,20,Make default `python` command to use Python 3
+python3,43,How do I install Python 3.3?
+qbittorrent,4,How do I assign magnet links to use qbittorrent?
+qcow2,2,"Ambiguity using ""ls -l"" and ""file"" commands on a qcow file"
+qdbus,1,How to update D-Bus on Ubuntu 12.04?
+qemu,12,How do I install qemu?
+qgis,1,dist-upgrade in ubuntu 14.04 uninstalled qgis and results in unmet dependencies
+qmake,1,How build against qt 5.3.1?
+qml,9,How to lock ubuntu device orientation in portrait or landscape from user input?
+qsystemtrayicon,2,Make sniqt recognize all tray abilities (or create a working indicator in Qt)
+qt,24,Should I use PyQt or PySide for a new Qt project?
+qt-creator,11,"Qt Quick UI templates missing from Qt Creator's New File or Project dialog"
+qt3,2,Installing crossvc is giving broken packages error
+qt5,12,How can I install Qt 5.x on 12.04 LTS?
+qtox,2,How to import a profile into qTox?
+quality,4,"What is the recomended application set for QA/tester's suite in Ubuntu?"
+quantum,1,OpenStack Havana with Juju/MAAS : no Quantum API server listening for requests
+quicklists,207,What Custom Launchers and Unity Quicklists are available?
+quickly,9,How do I develop .NET apps on Ubuntu?
+quicktime,3,Watch QuickTime videos in the browser?
+quodlibet,1,How to set Quodlibet as default music player?
+quota,1,Does btrfs support per user quota?
+r,9,Cannot find curl-config in Ubuntu 13.04
+rabbitmq,1,How to install rabbitmq management plugin (rabbitmq-plugins)?
+rabbitvcs,25,Nautilus Git integration
+radeon,12,Gnome-shell does not display top toolbar panel using a Mobility Radeon 5650
+radiance,1,Input method icon invisible in Radiance theme
+radius,1,Ubuntu 14.04.3 server both a free-radius server and an active directory server
+raid,35,How can I quickly copy a GPT partition scheme from one hard drive to another?
+raid5,1,re-assemble out-of-date raid5?
+rails,5,Best way to Install Ruby 1.9 Rails 3 Postgres Heroku GitHub Using RVM?
+ralink,15,Ralink 148f:7601 wifi adapter installation
+ram,52,I have 16GB RAM. Do I need 32GB swap?
+ram-usage,33,How to empty swap if there is free RAM?
+randr,3,Using the RandR-enabled nvidia 302.xx beta driver in 12.04 with a realtime kernel
+rar,4,"What's the easiest way to unrar a file?"
+rarcrack,1,whats the problem with rarcrack?
+raspberrypi,13,How can I burn a Raspberry Pi image to SD card from Ubuntu?
+razorqt,3,How do you use Notify OSD in Razor Qt?
+rdesktop,1,How run rdesktop after install it?
+rdiff-backup,6,What happens if rsnapshot / rdiff-backup gets interrupted in the middle of a transfer?
+rdp,32,Cannot RDP to Windows 7 with Remmina on 12.04
+re-installation,6,Need to repair or reinstall Ubuntu 12.04 without losing programs or data
+read-only,12,"How to fix ""sudo: unable to open ... Read-only file system""?"
+realtek,17,Wireless card Realtek RTL8723AE-BT is not recognized
+realtek-wireless,8,Realtek 8723BE Wifi problem
+realtime,15,How can I install a realtime kernel?
+reboot,100,How do I restart /shutdown from a terminal?
+recipe,6,How to apply a changelog file to packages in a PPA when building from recipe?
+recoll,2,How do I get statistics about my recoll index?
+record,20,How to record output to speakers?
+recording,3,GUI program to record internet radio with songs tags (title artist etc.)?
+recordmydesktop,4,Video converter: ogv to avi (or another more common format)
+recovery-mode,13,How do I boot into a root shell?
+red5,1,install red5 server on an ubuntu12.04 server
+redirect,43,"What is the difference between ""Redirection"" and ""Pipe""?"
+redis,2,"Ubuntu can't shutdown and the log-out screen just freezes"
+redmine,1,Ulimit and make_sock errors
+refind,2,Refind configuration: Change boot order and default boot
+refit,3,What is the difference between grubx64 and shimx64?
+regex,10,Recommendation for Regex editor?
+reinstall,3,How to downgrade back to 14.04 from 14.10 without live cd or usb drive?
+reinstalling,1,"Wi-fi doesn't work without reinstalling after every restart - please help me - 14.04"
+reiserfs,1,Manual Partitioning During Installation: Understanding File System Types
+release,2,How to change ubiquity release name
+release-management,150,How do I upgrade to a newer version of Ubuntu?
+release-notes,1,What are the benefits of six month release cycle?
+release-upgrade,5,Why does upgrading to 12.04 on an OpenVZ VPS warn that the kernel size is 0?
+relinux,2,Is it possible to create an Ubuntu 14.04 distro even though remastersys is gone?
+remapping,4,ButtonMapping - Positional parameters
+remastersys,49,How do I create a completely unattended install of Ubuntu?
+remmina,32,Cannot RDP to Windows 7 with Remmina on 12.04
+remote,17,How to use SSH (ssh & rsync commands)?
+remote-access,13,What free Remote Desktop (server) solutions are there?
+remote-assistance,8,Best VNC client for remote desktop assistance?
+remote-control,10,How do I change the keymap of a single device (Logitech presenter)?
+remote-desktop,17,How to set up a headless server?
+remote-login,6,How to open the display from ssh login?
+remote-x-session,11,Run application on local machine and show GUI on remote display
+removing,4,Is there a usage count for packages or programs?
+rename,49,How do I rename a directory via the command line?
+repair,6,Need to repair or reinstall Ubuntu 12.04 without losing programs or data
+replaygain,3,Adding ReplayGain tags
+repository,86,"Are PPA's safe to add to my system and what are some ""red flags"" to watch out for?"
+reprepro,2,Merge partial mirror into reprepro distribution
+reset,13,unable to reset root password of mysql
+resize,14,How to expand the ext4 primary partition size in a VMware Player virtual disk?
+resolution,44,Higher screen resolution in VirtualBox?
+resolv.conf,67,How do I add a DNS server via resolv.conf?
+resolvconf,4,How to edit /etc/resolv.conf on Ubuntu 12.04
+responsiveness,3,PgAdmin 3 @ Ubuntu 14.10: low responsiveness when typing
+restart,80,How do I change the hostname without a restart?
+restore,15,Backup whole OS
+restricted,1,Allow Connections to VNC Server Only From Specific IP Addresses
+restricted-access,6,How to give nopasswd access to multiple commands via sudoers?
+restricted-formats,2,"Any way to easily rip blu-ray disks? "
+resume,3,Suspend fails (reboot on resume) and no hibernate option
+reverse-tethering,9,How to share a wired Internet connection with an Android phone (reverse-tethering)?
+reviews,3,Is it possible to read/write software reviews in different languages?
+rfkill,8,What is causing my Intel 7260 bluetooth device to disconnect when I unblock it with rfkill?
+rhythmbox,44,How do I install third-party rhythmbox plugins?
+ricoh,1,Can a printer user code be entered in the printer settings gui?
+rkhunter,2,How to upgrade rkhunter
+rm,64,How can I recursively delete all files of a specific extension in the current directory?
+rockbox,1,What applications can I use to synchronize my Rockbox media player?
+root,42,Why is it bad to login as root?
+rootkit,5,Popup ad virus on both chrome and firefox
+rosegarden,2,"Rosegarden don't work"
+rotate,2,Is it possible to rotate a video using avidemux command line?
+rotate-monitor,8,rotated monitor. login screen needs rotation
+roundcube,1,403 Forbidden Error
+router,10,What are the risks of NOT using a firewall (home computer)?
+routing,9,How to make IP forwarding permanent?
+rpm,20,How do I install and manage RPMs?
+rsnapshot,6,What happens if rsnapshot / rdiff-backup gets interrupted in the middle of a transfer?
+rss,11,What is the best alternative to Google Reader?
+rsync,11,How to exclude multiple directories with rsync?
+rsyslog,5,How do I configure rsyslog to send logs from a specific program to a remote syslog server?
+rtc,1,XPCOM error 0x80004005 with RTC 4.0.6 on Ubuntu 14.04 64 bit
+rtl,5,How to enable Arabic support in GNOME terminal?
+rtl8192ce,4,Wifi Drops and Reconnects with UBUNTU 14.04 (Realtek RTL8188)
+rtmp,3,How to download streaming video from a flash player (arte)?
+rtsp,1,How to play rtsp streams in ubuntu?
+ruby,13,How to find and install latest Ruby version using RVM?
+ruby-on-rails,2,Job on Upstart not started
+runescape,3,How do I update the IcedTea Plugin on 12.10?
+runit,1,reliably restarting services using upstart or runit
+runlevel,7,How do I setup tty autologin in Ubuntu which is running Upstart
+russian,1,How to teach Ubuntu 15.04 Russian spelling system the ? letter?
+rust,2,Where are the Rust (aka rust-lang) packages for Ubuntu?
+rvm,13,How to find and install latest Ruby version using RVM?
+rygel,27,How do I set up live audio streams to a DLNA compliant device?
+s2ram,1,Laptop suspend appears broken what must I roll back?
+safely,2,Unable to detach (spindown) external USB HDD in 15.04; Safely Remove just remounts it back
+safety,2,How do I check if someone accessed my computer?
+sagemath,1,Sudden problem when upgrading
+samba,29,Which to use NFS or Samba?
+samba4,2,"Can't mount samba shares"
+samsung,17,How to set the monitor to its native resolution which is not listed in the resolutions list?
+sandy-bridge,2,Enable full performance on Sandy Bridge laptop
+sane,1,"""Iscan"" only runs as root"
+sansa-clip,1,Sansa Clip not recognized
+sasl,4,"""SASL authentication failed"" with mutt and Gmail why?"
+sata,4,Are these sata errors dangerous?
+sbuild,1,How to cross-compile a Qt package for armhf with sbuild?
+scale-mode,7,Fix scaling of java-based applications for a high DPI screen
+scaling,7,"`indicator-cpufreq` doesn't seem to work on 14.10"
+scanner,6,USB 2.0 device (scanner) does not work with xhci_hcd on USB 3.0 system
+scanning,20,"What's the best simplest OCR solution?"
+schedule,20,Conveniently schedule a command to run later?
+scheduled,10,How do I schedule waking up from hibernation?
+scidavis,1,Scientific plotter that works with dark themes
+scilab,1,How to install and run Scilab manually?
+scons,2,How can I install boost-devel in Ubuntu 12.04?
+scopes,142,What lenses for Unity are available?
+scp,10,What is a program similar to WinSCP?
+screen,22,Is it possible to have two different DPI configurations for two different screens?
+screen-corruption,2,Login screen restarts while entering password
+screencast,198,How to create animated GIF images of a screencast?
+screenlets,2,Desktop widget to show list of tasks
+screensaver,20,How can I change or install screensavers?
+screenshot,22,What is the terminal command to take a screenshot?
+scripts,69,Differences between /bin /sbin /usr/bin /usr/sbin /usr/local/bin /usr/local/sbin
+scrollbar,4,How to change color AND width of non overlay scrollbars in Ubuntu 12.04
+scrolling,17,How to change my mouse wheel scroll rate?
+scrot-command,1,Lubuntu/Xlde > is there a way to change scrot printscreen default saving option to shutter?
+sd-card,52,How to access a usb flash drive from the terminal? (How can I mount a flash drive manually?)
+sdk,3,Android SDK and Path
+sdl,7,What is the general procedure to install development libraries in Ubuntu?
+seahorse,59,"How can I stop being prompted to unlock the 'default' keyring on boot?"
+seamonkey,1,Is there a way to make 32-bit Mozilla Seamonkey work in a 64-bit XUbuntu 14.04?
+search,23,How to search entire hard drive for a file?
+searchmonkey,1,Can Searchmonkey find a term inside textfiles?
+sector-size,3,How do I correctly align partions on a hdd with sector size of 4096 bytes?
+secure-boot,11,How to understand Ubuntu UEFI Secure Boot install?
+secure-delete,2,Where are ALL ubuntu logs/terminal history stored
+secure-erase,1,Linux live USB with working sleepmode searched for secure erase SSD
+security,86,"Are PPA's safe to add to my system and what are some ""red flags"" to watch out for?"
+security-card,2,How do I install and configure a Security Card (CAC) Reader for Ubuntu 13.04
+sed,21,"How to use variables in 'sed' command?"
+segmentation-fault,6,What is a segmentation fault?
+self-signed,6,How to sign files with Ubuntu command-line tools and my own keys?
+selinux,2,SELinux implementation in Ubuntu
+semantic,4,Any search tool for LXDE menu?
+send2printer,1,Prints only go to queue
+sendmail,5,Local only sendmail that delivers all mail to a directory
+sensors,19,How to use lm-sensors?
+serial-port,7,How to distinguish between identical USB-to-serial adapters?
+server,138,How do I fix my locale issue?
+services,313,How to enable or disable services?
+session,13,how to execute a command after resume from suspend?
+setcap,1,Making copy of /bin/ping exectuable
+settings,26,How do I change the cursor and its size?
+setup,3,How can I set up a php script to run via cron?
+sftp,34,How can I chroot sftp-only SSH users into their homes?
+sh,28,What is difference between #!/bin/sh and #!/bin/bash?
+sha256,1,How to automate the process of checking an Ubuntu ISO SHA256sum
+shadow,1,How to change the shadow file manually?
+share,5,How to share my WiFi Internet via WiFi?
+shared,13,"Can't access Ubuntu's shared folders from Windows 7"
+shared-folders,29,Npm errors when installing packages on windows share
+shared-library,39,Problems with Eclipse and Android SDK
+sharing,14,"Why don't shared files show up in HGFS?"
+shebang,1,What type of path in shebang is more preferable?
+shellshock,51,What is the CVE-2014-6271 bash vulnerability (Shellshock) and how do I fix it?
+shm,1,/run/lock and /run/shm missing
+shopping-lens,62,How can I remove Amazon search results from the dash or disable the feature?
+shortcut-keys,335,"What are Unity's keyboard and mouse shortcuts?"
+shortcuts,40,How to add a shell script to launcher as shortcut
+shotwell,9,How to keep your photos in sync with Flickr?
+show-desktop,16,"How to add a ""Show desktop"" icon to the launcher?"
+shredding,6,How to shred a folder?
+shumway,1,How to activate Shumway in Firefox?
+shutdown,100,How do I restart /shutdown from a terminal?
+shutter,10,How to make Shutter as the default screenshot tool?
+sid,2,Is Ubuntu based on Debian unstable or Debian testing?
+signal,2,Bad WiFi reception on Asus Zenbook (Works great with Windows 7)
+signature,6,Does linux have a signature system for executables?
+simon,2,Unable to install Simon
+single-sign-on,2,What is the relationship between Ubuntu Single Sign On and Launchpad Login Service?
+sip,6,How do I receive incoming Google Voice calls using Empathy?
+sis-graphics,3,Low resolution on Lubuntu 14.04 (Sis)
+skel,2,How to ensure that all new users have the same profile settings as the current user?
+skype,54,How to install Skype 4.3?
+sleep,33,Automatically sleep and wake-up at specific times
+slideshow,3,App to make a video from photos?
+slim,1,Reset GDM to default Display  Manager
+smart,8,How Do I interpret HDD S.M.A.R.T Results?
+smartcard,2,PGP key: length multiple identities smart card
+smartphone,8,Smartphones and Ubuntu
+smartscopes,2,Smart Scopes run-order
+smb,22,Proper fstab entry to mount a samba share on boot?
+smbus,1,Error after installing Ubuntu
+smplayer,4,kubuntu - vlc or smplayer video quality settings for HD movies (mkv etc...)
+sms,8,Desktop SMS client in Ubuntu
+smtp,4,ISP Blocked port 25 because of spamming
+snap-windows,4,Window snapping in Ubuntu MATE
+snapcraft,2,What is snapcraft?
+snapshot,12,Setting up LVM Snapshot as a backup/restore point in ubuntu
+snmp,4,Why is SNMP broken?
+social,2,Change home folder background on Ubuntu 13.10
+sockets,60,How to know what program is listening on a given port?
+socks5,1,Does creating a SOCKS proxy via ssh hide my activities from my ISP?
+software-center,46,"How do I deal with ""unauthenticated sources"" errors in the Software Center?"
+software-installation,575,"How can I install Sun/Oracle's proprietary Java JDK 6/7/8 or JRE?"
+software-recommendation,514,What Application Indicators are available?
+software-sources,65,How to fix Duplicate sources.list entry?
+software-uninstall,23,How to uninstall LibreOffice?
+software-updater,6,Software Updater window not displaying though open in 13.04
+solr,1,How to uninstall Solr
+sony,8,Sony VAIO with Insyde H2O EFI bios will not boot into GRUB EFI
+sopcast,4,How to install sopcast-player?
+sort,5,How do I sort by human readable sizes numerically?
+sound,28,Ubuntu refuses to output audio via HDMI
+sound-blaster,3,Sound Blaster Recon3D not working
+sound-editor,23,What to use to quickly cut Audio/Video
+sound-juicer,5,Ripped mp3 files show wrong track lengths
+sound-recorder,7,Voice Recorder for 14.04
+sound-theme,3,How can I change some of the system sounds?
+soundcard,4,How to play audio from different applications on different output devices?
+soundconverter,2,Python (v2.7) requires to install plugins to play media files of the following type: Windows Media Audio 8 decoder
+source,44,Why ~/.bash_profile is not getting sourced when opening a terminal?
+source-code,8,How (recipe) to build only one kernel module?
+source-packages,3,"Added key but dget still shows ""gpg: Can't check signature: public key not found"""
+spdif,2,Problem with 5.1 AC-3 through Alsa Pulseaudio on SPDIF Ubuntu 14.04
+speakers,13,Sound from both headphones and speakers
+special-characters,6,How can I input punctuation marks like ellipsis?
+speech-recognition,9,Speech-recognition app to convert MP3 to text?
+spell-checking,9,How to install a LibreOffice Dictionary (Spelling Check Thesaurus...)
+spindown,6,How can I spin down external hard drive?
+splashtop,1,Splashtop Streamer needs gtk?
+split,27,How to split larger files into smaller parts?
+spotify,16,Remove spotify pop-up notification when a song starts
+sputnik,1,External monitor not detected on 13.04 on a Dell XPS 13 via Mini DP
+spyder,6,Comparison of Octave Spyder Freemat and Scilab as alternatives to MATLAB
+sql,17,How to install sql developer on ubuntu 14.04?
+sqldeveloper,1,"can't run sqldeveloper on Ubuntu"
+sqlite,4,How should I see the skype chat history from the file main.db located at ~/.Skype/SKYPEUSERNAME/?
+sqlite3,1,sqlite3 - humongous dependency list?
+squashfs,3,How to create a bootable system with a squashfs root
+squid,3,"iptables doesn't redirect http traffic to my Squid proxy!"
+squid-deb-proxy,1,squid-deb-proxy failing to cache packages
+squid3,3,"iptables doesn't redirect http traffic to my Squid proxy!"
+ssd,105,How to enable TRIM?
+ssh,139,How to keep processes running after ending ssh session?
+ssh-agent,15,How to use multiple ssh keys with different accounts and hosts
+ssh-import-id,3,How can I help someone (like granny) over SSH who is behind a NAT router?
+sshd,11,"What does 'without password' mean in sshd_config file?"
+sshfs,18,How to run a script depending on internet connection
+ssl,55,How do I patch/workaround SSLv3 POODLE vulnerability (CVE�-2014�-3566)?
+stable,1,Wired Network is not stable in ubuntu 13.04 (64-bit)
+stable-release-updates,6,Why does Ubuntu only support versions for a limited time (and what does it mean)?
+stack,2,Stack docklet in ubuntu 12.04 unity
+stackapplet,2,How to install Stack Applet?
+standalone-session,4,How to load unity-launcher in standalone session?
+standby,2,Hard-drive fails to boot if suspend was activated prior to restarting. Booting a live USB/CD fixes the issue (temporarily)
+startup,112,How to run scripts on start up?
+startup-applications,11,Where did the startup-applications-preferences program go?
+startup-disk,1,Creating a startup disk on a partition of a USB drive
+startup-disk-creator,4,Startup disk creater not loading ISO file in 14.04
+startupmanager,1,How do I stop Gimp from autolaunching on startup?
+stat,12,How to find the creation time of a file?
+static-ip,4,Is there a safe way to disable DHCP from command line?
+statistical,2,How do I Install X13-arima-seats for Rstudio from source?
+statusbar,27,How do I get the Skype status icon back? (on panel/tray)
+stdout,26,What does 2>/dev/null mean...?
+steam,37,Problem with installing Steam on Ubuntu 15.04
+stickynotes,8,What alternatives for sticky notes are available?
+storage,19,How do I mount an SD card?
+stream,25,How to stream music over the network to multiple computers?
+streaming,39,How do I setup an Icecast server for broadcasting audio in my network?
+stress-testing,1,Overclock monitoring and stress testing tools in Ubuntu
+style,9,How to span single wallpaper over dual monitors?
+stylus,5,Are there plans for handwriting recognition?
+su,56,"'sudo su -' vs 'sudo -i' vs 'sudo /bin/bash' - when does it matter which is used or does it matter at all?"
+sublime-text,21,How do I make Sublime Text 3 the default text editor
+subpixel-rendering,4,How to activate subpixel font hinting for the text inside Firefox Chrome and evince?
+subtitle,20,How to show subtitles under the video in VLC?
+sudo,127,How can I add a new user as sudoer using the command line?
+support,4,Does 32-bit PAE with more than 4GB RAM improve speed?
+surface,10,Ubuntu on surface pro 3 or Linux at all?
+suspend,84,How can I suspend/hibernate from command line?
+suspend-resume,13,how to execute a command after resume from suspend?
+svg,6,Export image as SVG in GIMP
+svn,29,Where can I find a Subversion 1.7 binary?
+swap,75,How do I configure swappiness?
+swf,10,How do I play .swf files?
+switch-user,15,"What is the purpose of the 'nobody' user?"
+switchable-graphics,6,How to re-configure graphics from Intel integrated to Intel / ATI switchable?
+symbolic-link,73,What is the difference between a hard link and a symbolic link?
+synapse,7,Is synapse application launcher available?
+synaptic,15,Assign highest priority to my local repository
+synaptics,23,Mac like MultiTouch support
+sync,10,How do I integrate Dropbox in Sync Menu Indicator?
+synergy,8,Start synergy on boot?
+synfig-studio,3,How to install Synfig Studio in 12.04?
+syntax,4,"What's the missing argument to -exec?"
+syntax-highlighting,39,How do I enable syntax highlighting in nano?
+sysfs,5,"How do I modify ""/sys/kernel/mm/transparent_hugepage/enabled"""
+syslinux,3,Can I install Ubuntu/Lubuntu on a pc with a video card that is not supported if I add `nomodeset` in using the live cd/usb?
+syslog,13,Difference between /var/log/messages /var/log/syslog and /var/log/kern.log?
+sysrq,9,Shut down computer from keyboard
+system,69,Differences between /bin /sbin /usr/bin /usr/sbin /usr/local/bin /usr/local/sbin
+system-call-fastboot,1,Meizu MX4 Ubuntu edition Fastboot problem
+system-info,9,"Change the ""device name"" in the details window of System settings"
+system-installation,336,Installing Ubuntu on a Pre-Installed Windows with UEFI
+system-language,1,"What is the program ""Additional Drivers"" (jockey-gtk) talking me about?"
+system-monitor,52,"What is the equivalent of 'Control-Alt-Delete'?"
+system-requirements,24,How do I find out which version and derivative of Ubuntu is right for my hardware in terms of minimal system requirements?
+system-settings,25,Missing System Settings after removing some packages
+system-tray,20,Upgraded to 13.10 now clock settings are all disabled and clock does not display
+systemd,15,How can I replace upstart with systemd?
+systemd-logind,2,snd_hda_intel fails to load and black screen after delay
+sysv,3,How system services are started in 12.10?
+tablet,18,32-Bit UEFI Boot Support
+tabs,13,Some fast way to save and restore tabs of Terminal?
+tag,4,How can I fetch lyrics for all my music and store them within the files?
+tagging,10,Tag and manage video files
+tail,4,GUI for watching logs (tail and grep)
+tap-to-click,3,Synaptics touchpad tap-to-click is not working in Ubuntu 15.10(Gnome)
+tar,64,How do I uncompress a tarball that uses .xz?
+task-management,9,Where is the Task Manager?
+taskbar,4,How to have the Taskbar with Unity at the same time?
+tasksel,14,Should I use tasksel tasks in APT or install regular metapackages?
+tcpdump,1,tcpdump permissions problem
+tcsh,1,Flexible vector construction in tcsh
+teamspeak,1,"Installed TeamSpeak 3 won't open. 14.04"
+teamviewer,62,Installed Teamviewer using a 64-bits system but I get a dependency error
+tearing,16,How do I stop video tearing? (Nvidia prop driver non-compositing window manager)
+tee,9,is there any significance to using tee
+telegram,7,How to install Telegram Desktop in Ubuntu 14.04 LTS
+telepathy,2,Empathy cannot connect to MSN account
+telnet,2,Ougoing telnet: Unable to connect to remote host: Connection refused
+teminal-bell,7,"Terminal bell doesn't ring"
+temperature,78,How do I get the CPU temperature?
+templates,2,Where can I download pretty extra templates for LibreOffice Impress?
+terminal-bell,1,How do I replace the system sounds?
+terminal-server,1,How to check if ICMP blocking is enabled in a system..?
+terminator,17,How do I get Terminator to start up with my custom layout?
+terminology,51,What is the difference between Terminal Console Shell and Command Line?
+testdisk,2,"How to resolve "" The harddisk seems too small"" with Testdisk deeper search option"
+testing,29,How do you test the network speed betwen two boxes?
+testsuite,4,"What is the recomended application set for QA/tester's suite in Ubuntu?"
+tether,1,Is it possible to tether internet between my android phone and a 3G HSPDA router?
+tethering,2,Defaulting internet requests to wlan0 when also connected to eth0
+texas-instruments,1,How can I connect my TI-84 Plus calculator with my laptop?
+texlive,9,How to properly install and use texlive with package manager in 14.04
+text,18,Any way to search for text within nano?
+text-editor,26,Find and replace text within multiple files
+text-mode,83,How do I disable X at boot time so that the system boots in text mode?
+text-processing,44,Find and replace text within a file using commands
+text-to-speech,22,Natural Sounding Text to Speech?
+tftp,13,How do I temporarily run an FTP server?
+theme-development,1,Unity Theming Transparent Panel
+themes,115,How to change tooltip background color in Unity?
+theoretical,3,What would happen if init was deleted?
+thinkpad,31,How can I limit battery charging to 80% capacity?
+thumbnails,22,What is safe to exclude for a full system backup?
+thunar,29,Bring back `BackSpace` Keyboard Shortcuts on nautilus and thunar
+thunar-custom-actions,2,How to convert multiple files to mp3 in Thunar custom actions?
+thunderbird,15,How to keep Thunderbird and Pidgin running on background?
+thunderbolt,2,"Can Ubuntu run on Intel's NUC devices?"
+tightvncserver,2,Started tightvncserver on Ubuntu but viewer complains about missing .xsession file
+tiling,3,xubuntu 12.10 window tiling shortcuts
+time,14,How do I change my timezone to UTC/GMT?
+time-command,3,"Why `time` command doesn't work with any option?"
+time-management,12,A simple timer app similar to timer-applet
+timeout,2,Is it possible to completely disable Grub timeout?
+timestamp,29,How can I change the date modified/created of a file?
+timezone,34,Clock time is off on dual boot
+tint2,1,Indicator synapse in tint2
+titlebar,7,"Is there any way to stop a window's title bar merging with the panel when maximised?"
+tlp,3,Persistent High-Fan Speed Ubuntu 14.04
+tls,55,How do I patch/workaround SSLv3 POODLE vulnerability (CVE�-2014�-3566)?
+tmp,38,How is the /tmp directory cleaned up?
+tmpfs,22,How can I use RAM storage for the /tmp directory and how to set a maximum amount of RAM usage for it?
+tmux,11,How to install new tmux 1.8 on Ubuntu 12.10 or 12.04?
+tomboy,6,How to synchronize Tomboy notes
+tomcat,42,Disable autostart for a service without uninstalling?
+tomcat6,12,Where is catalina_base and catalina_home located for tomcat6?
+tomcat7,6,How should I install Apache Tomcat 7 for use with Eclipse?
+tools,6,How do I install development tools for 12.10?
+tooltip,2,How do I remove the tool tips on the launch bar?
+top,7,"What is ""cached"" in the top command?"
+top-bar,1,Text at title bar shown in global top bar for unmaximized windows
+tor,13,How to install Tor?
+tor-browser,6,How do I install the Tor Browser Bundle in Ubuntu?
+torrent-client,8,Torrent magnet links open new window but not transmission
+toshiba,4,Wireless not working on Toshiba Satellite C55-A5281
+toshiba-satellite,6,Keyboard and mouse unresponsive after suspend
+totem,9,Way to make video-thumbnails generate from VLC instead of Totem?
+touchegg,13,How can I disable arbitrary default multitouch gestures in Unity?
+touchpad,75,How to disable the touchpad?
+touchscreen,9,Adjust Firefox and Thunderbird to a High DPI touchscreen display (retina)
+tox,9,How do I install Tox?
+toxic,2,How to import a profile into qTox?
+tp-smapi,2,How do I load the tp_smapi kernel module on a Lenovo Easypad?
+tpm,4,Does Ubuntu use TPM 2.0 chip?
+tr,2,"Looping tr command to remove '\r' in multiple files in a directory"
+traceroute,5,What are the significant differences between tracepath and traceroute?
+tracker,5,How to search for files by tags?
+trackpad,11,Disable Mouse Movement in Tap Zones on Synaptics Trackpad
+trackpoint,13,How to use trackpoint but keep touchpad disabled on Lenovo ThinkPad e531
+trademark,5,Distribution and sale of modfied ubuntu image
+traffic,7,Monitoring inbound and outbound internet traffic
+training,11,Is there such a thing as a Ubuntu Certified Engineer?
+transcode,3,Using avconv when remuxing to MKV is there a way to fix packed AVI input files?
+transfer,9,How to transfer files from/to an Android device with ADB via GUI?
+translation,6,Can I use the Launchpad translation service for my GitHub project?
+transmission,21,"How to configure chrome to open magnet url's with deluge?"
+transparency,6,How can I make my windows transparent by doing Alt+Mouse Scroll?
+transparent-proxy,3,"iptables doesn't redirect http traffic to my Squid proxy!"
+trash,26,How can I empty the trash using terminal?
+tree,4,How to print the output of tree to pdf without losing the color?
+trim,105,How to enable TRIM?
+trojan,1,Is my system being controlled maliciously via wifi?
+troubleshooting,4,How to determine what happened and locate the problem when my system freezes?
+truecrypt,4,Cross-platform non-ASCII symbols in filenames with TrueCrypt
+tsclient,3,How to associate RDP extension to open remote desktop client on 12.04?
+tt-rss,3,Why is the command in /etc/rc.local not executed during startup?
+tty,27,How do I change the font or the font size in the TTY (console)?
+tunnel,16,Reverse port tunnelling
+turbo-boost,4,How do I get turbo boost working?
+tuxguitar,3,TuxGuitar - no sound in 14.04
+tuxonice,1,hibernate-disk command is failing to hibernate without producing any errors or helpful debug output
+tv,6,How to download video from arte+7 and arte-tv related sites?
+tv-tuner,3,What software is available to use TV tuner card?
+tvtime,3,How to make AverTv tuner work
+tweak,7,Ubuntu tweak tool - Mouse cursor would not change theme
+twinkle,1,Twinkle not opening after installation
+twinview,6,How to run Humble Bundle V games on a system with Nvidia Twinview?
+twitter,13,Who to follow on Twitter if you are interested in Ubuntu?
+two-factor-authentication,9,How can I further secure my system using 2 factor authentication?
+typing-break,7,How can I install Typing Break?
+ubiquity,21,How can I install Ubuntu encrypted with LUKS with dual-boot?
+ubufox,4,What does the Ubuntu Firefox Modifications extension to firefox do?
+ubuntu-advantage,3,How does 24/7 support in Ubuntu Advantage work
+ubuntu-bug,2,"Should I report a bug on Ubuntu's bug tracker or on the upstream's?"
+ubuntu-core,8,What is Snappy Ubuntu Core?
+ubuntu-drivers,2,How to install Linux Wacom drivers on Lubuntu?
+ubuntu-edge,1,Ubuntu edge/touch Laptop shell
+ubuntu-emulator,2,Ubuntu touch how to get HTML 5 app template running?
+ubuntu-font-family,12,Can I change the Linux console (Ctrl+Alt+F1) font to Ubuntu Mono?
+ubuntu-for-android,6,What is Ubuntu For Android?
+ubuntu-forums,1,Are OpenID logins compromised with the Ubuntu Forums breach?
+ubuntu-gnome,12,Install GNOME Desktop Ubuntu 15.04
+ubuntu-light,1,Where do I get the source code for Ubuntu Light?
+ubuntu-make,1,Does ubuntu-make keep installed software up-to-date?
+ubuntu-mate,1,why is my Ubuntu (mate 15.10) installer showing more partition than there actually are? Is there anything I am missing for the Ubuntu dual boot?
+ubuntu-membership,3,How to get Ubuntu membership?
+ubuntu-minimal,15,Arrow keys tab-complete not working
+ubuntu-netbook,5,Netbook/Tablet : is there a way to switch between Desktop mode and touch mode (preferably the new Touch interface of Ubuntu)?
+ubuntu-one,26,What are the alternatives to Ubuntu One?
+ubuntu-one-api,1,Ubuntu One: PUT to upload a file which is larger than 16302 bytes fails systematically
+ubuntu-one-windows,3,ubuntu one sign in with windows client fails
+ubuntu-phone,5,Ubuntu Phone Emulator and Developer Phone Release Date
+ubuntu-restricted-extras,5,How to install the most common plugins?
+ubuntu-sdk,9,How to lock ubuntu device orientation in portrait or landscape from user input?
+ubuntu-store,1,In Ubuntu Touch how can Ubuntu Store applications be installed via the terminal?
+ubuntu-studio,42,How do I set systemwide proxy servers in Xubuntu Lubuntu or Ubuntu Studio?
+ubuntu-touch,38,What hardware does Ubuntu Touch support?
+ubuntu-tv,7,What is Ubuntu TV?
+ubuntu-tweak,7,How do I install Ubuntu-Tweak?
+ubuntu-website,12,What does thisisthecountdown.com count down to?
+ubuntu-wiki,2,Is there a kind of Ubuntu Wiki sitemap or contents index?
+uck,2,"""iso-mount seems to be mounted read-only"" error in UCK 2.4.6 or 2.2.0"
+udev,18,What is the correct way to restart udev?
+udf,5,Can and should UDF be used as a hard drive format?
+udisks,6,Why are the default permissions for /media/username root:root?
+uds,1,Will videos/slides from the UDS be available?
+uec,5,How do I boot Ubuntu Cloud images in vmware?
+uefi,336,Installing Ubuntu on a Pre-Installed Windows with UEFI
+ufs,1,"Strange errors in 'dmesg' output related to mounted partition"
+ufw,28,Why is the firewall disabled by default?
+uget,1,uget with aria2 plugin
+ulimit,30,How do I increase the open files limit for a non-root user?
+ultrabook,11,Ubuntu resolution with Ultrabook
+ultrastar-deluxe,1,How can I install Ultrastar Deluxe in Ubuntu 13.04?
+umask,33,"What is ""umask"" and how does it work?"
+uml,11,What UML (Unified Modelling Language) tools are available?
+umount,10,Why do I need root privileges to umount a drive at the command line but not in nautilus? How to change?
+unallocated,4,Extending Ubuntu Partition size with the unallocated space (swap is between these two)
+unattended-upgrades,25,How do I enable automatic updates?
+unclaimed,1,Tracetel RFID device shows as unclaimed
+undelete,2,undelete files on ext4
+unetbootin,14,How do I use Unetbootin to make a bootable Windows USB installer?
+unicode,51,How can I make my shell prompt look like a cheeseburger?
+unicode-entry,26,How can I type a unicode character (for example em-dash -?)
+uninstall,61,How to completely uninstall Java?
+unionfs,28,How do I use OverlayFS?
+uniq,1,How to grep keywords with unique value?
+unison,4,Unison - Automatically Sync Computers
+unistd,1,some man pages not found
+unity,335,"What are Unity's keyboard and mouse shortcuts?"
+unity-2d,72,"How do I modify or disable the HUD's use of the Alt key?"
+unity-control-center,2,"Can't run unity-control-center"
+unity-dash,62,How can I remove Amazon search results from the dash or disable the feature?
+unity-greeter,110,"How to fix ""The system is running in low-graphics mode"" error?"
+unity-launcher,2,Using a .desktop entry for a Virtualbox VM to launch from Unity launcher still opens Virtualbox
+unity-tweak-tool,10,"Unity Tweak tool fails to start with the error ""com.canonical.unity.webapps schema is missing"""
+unity-web-player,4,How to install unity web player on Ubuntu 14.04?
+unity8,2,"Can't install apps from app store in Ubuntu 14.10 unity8"
+unknown-device,3,"Logitech MX Anywhere 2 mouse pairs but doesn't do anything"
+unlock,6,Lock and Unlock from USB disk (pendrive)
+unmount,7,Autorun a script after I plugged or unplugged a USB device
+unprivileged,4,How to build application without sudo privileges?
+unreadable,4,Unreadable font on Gmail since recent updates in Chromium
+unsupported-packages,8,Package denyhosts in Ubuntu Trusty Tahr is deleted: temporary or forever?
+unzip,67,What command do I need to unzip/extract a .tar.gz file?
+update-alternatives,18,What exactly does `update-alternatives` do?
+update-manager,19,"""Require Installation Of Untrusted Packages"" while upgrading with the update manager"
+updatedb,14,Can I disable updatedb.mlocate?
+updates,105,How to install updates via command line?
+upgrade,150,How do I upgrade to a newer version of Ubuntu?
+upload,7,Software for Imgur image upload
+upnp,27,How do I set up live audio streams to a DLNA compliant device?
+ups,2,How to configure UPC with USB connection
+upstart,313,How to enable or disable services?
+upstream,10,What is the difference between upstream and downstream when referring to who to go to as a developer?
+uptime,6,"What's the fairest way to monitor total CPU time - per user?"
+urban-terror,2,How to install latest version of Urban Terror on Ubuntu 12.04?
+ureadahead,2,Possible to use ureadahead to cache frequently used programs?
+url,31,How to download a file from a website via terminal?
+usability,10,How are typical users expected to read the documentation in /usr/share/doc?
+usb,60,How to burn a Windows .iso to a USB device?
+usb-creator,99,How can I create a Windows bootable USB stick using Ubuntu?
+usb-device,1,How to install Jahshaka?
+usb-drive,52,How to access a usb flash drive from the terminal? (How can I mount a flash drive manually?)
+usb-installation,1,TechniSat SkyStar USB 2
+usb-modem,10,3G USB Modem Not Working in 12.04
+usb-modeswitch,5,How to configure TATA Photon+ EC1261 HUAWEI
+usb-storage,15,How to get an email notification when a USB storage device is inserted?
+usbfs,1,How do I limit the size of my syslog?
+usbhid,7,SteelSeries Sensei side buttons freezes the mouse
+usbview,1,Tool to list USB devices as tree in shell?
+user-data,41,How to migrate user settings and data to new machine?
+user-management,127,How can I add a new user as sudoer using the command line?
+user-mode-linux,4,"""dmask"" and ""fmask"" mount options"
+user-profile,55,How do I change my username?
+user-space,5,How to understand the flow of USB detection?
+useradd,36,What is the difference between adduser and useradd?
+username,15,"What is the purpose of the 'nobody' user?"
+users,73,Add user to existing Group
+ushare,1,UPnP with ushare to an xbox 360 arcade
+ussd,3,Error sending USSD Ubuntu 14.04
+utf-8,10,apt-get warning: No support for locale: en_US.utf8
+utorrent,14,How to install uTorrent v3.3 on 14.04
+uuid,3,MDADM Superblock Recovery
+ux,2,"Fastest way to read help on not installed program (I'm Feeling Lucky)"
+v4l,1,Error while compiling OpenCV in Ubuntu 14.04
+vaapi,5,Problem installing libva (VAAPI) vainfo fails
+vagrant,18,Shutting down all VirtualBox (vagrant) VMs in one easy to use bash command (that can be put into a bash file)
+vaio,26,Windows 8 removes Grub as default boot manager
+vala,7,Wanting to start development for Ubuntu (and most Linux distributions in general) which is suitable? Python or Vala?
+valgrind,2,Unable to locate package libc6-dbg:i386 in docker
+vcd,1,K3b is missing vcdxbuild vcdxminfo and vcdxrip how can I install it?
+vdi,8,Recover files from a broken Virtualbox machine .vdi
+vdpau,89,Flash video appears blue
+vector,1,Flexible vector construction in tcsh
+vector-drawings,7,Is there an alternative to Adobe Fireworks?
+verbose,2,Can I verbose output during a copy command processing?
+version,6,Why does Ubuntu only support versions for a limited time (and what does it mean)?
+version-control,18,"How to keep ""dot files"" under version control?"
+versions,38,How to Downgrade a Package via apt-get?
+vga,5,HDMI/VGA connection cuts borders of screen or creates blurry text
+vgaswitcheroo,4,How to permanently switch off discrete graphic card?
+vi,15,How to copy paste contents in VI editor?
+via,3,Mouse pointer strange problem
+viber,8,Viber notification is not in the right position
+vidalia,7,"Keyboard doesn't work with Tor Browser"
+video,24,Video editing software options?
+video-capture-card,1,How to capture from HDMI with Ubuntu?
+video-conversion,34,How to convert .mkv file into .mp4 file losslessly?
+video-driver,8,How to use NVIDIA GTX 970 GPU?
+video-editor,23,What to use to quickly cut Audio/Video
+video-player,33,How can I play encrypted DVD movies?
+video-streaming,3,Cannot get 4od video streaming to work
+video4linux,2,Xubuntu 12.10 and FFMPEG webcam
+viewports,6,How to get a different Unity Launcher with different icons on each workspace?
+vim,92,How can I install and use powerline plugin?
+vim-plugin,5,Having problem with fonts in vim-airline
+vimrc,3,"vi getting multiple ""Sorry the command is not available in this version..."" after reinstall"
+vinagre,4,"Remote Desktop Viewer doesn't update the image"
+vino,18,Enable remote VNC from the commandline?
+virt-manager,1,How to define clone presets to virt-manager
+virtual,8,How do I check if a package is installed on my server?
+virtual-console,52,"Why is a virtual terminal ""virtual"" and what/why/where is the ""real"" terminal?"
+virtual-printer,5,How to print a regular file to pdf from command line
+virtual-terminal,9,How do I switch between virtual terminals in a guest system?
+virtualbox,115,How do I install Guest Additions in a VirtualBox VM?
+virtualbox-networking,10,No internet connectivity in virtual-box with both Host and Virtual OS being 12.04
+virtualdesktop,1,Disable alt + tab moving windows by itself
+virtualenv,29,How to set up and use a virtual python environment in Ubuntu?
+virtualenvwrapper,1,Virtualenv permission denied
+virtualhost,9,How can I watch the current connections on my Apache webserver?
+virtualization,61,Migrate from a virtual machine (VM) to a physical system
+viruses,16,How do I clear everything (data viruses) from a thumbdrive?
+visio,21,Is there an alternative to Microsoft Office Visio?
+visual-artifacts,2,Visual Artifacts when using nVidia Prime on Intel driven monitors
+visualization,3,What simple FLOSS software can I use to produce nice data visualization?
+visudo,56,How to modify a invalid /etc/sudoers file? It throws out an error and not allowing me to edit again
+vlc,20,How to show subtitles under the video in VLC?
+vm,10,Deciding between virtual machine or dual-boot setup
+vmbuilder,3,Is there a modern equivalent of python-vm-builder?
+vmd,1,How do I install VMD on Ubuntu 15.04
+vmdk,10,Is there a free trusted vmware image with Ubuntu preinstalled?
+vmware,14,"Why don't shared files show up in HGFS?"
+vmware-fusion,18,"Stuck at 'VMware easy install'"
+vmware-player,39,What is the path to the kernel headers so I can install vmware?
+vmware-server,12,Boot failure : No DEFAULT or UI configuration directive found!
+vmware-tools,45,How do I mount shared folders in Ubuntu using VMware tools?
+vmware-view,1,How to install VMware View Client?
+vmware-workstation,14,Unable to start VMWare Workstation after upgrade to 13.04
+vnc,18,Enable remote VNC from the commandline?
+vncviewer,17,How to set up remote desktop sharing through SSH?
+vnstat,3,Is it possible to set on-peak and off-peak hours in vnstat for monitoring bandwidth?
+vodafone,2,Connection problems with 3G Dongle (Vodafone K3805-Z)
+voice-recognition,15,Is it possible to login by voice recognition?
+voip,6,How do I receive incoming Google Voice calls using Empathy?
+volume-control,24,Terminal command to set audio volume?
+vpn,48,Easiest way to setup Ubuntu as a VPN server
+vpnc,35,Connect/disconnect from VPN from the command line
+vps,17,"Trying to start nginx on VPS I get ""nginx: unrecognized service"""
+vsftpd,6,VSFTPd stopped working after update
+vulkan,1,Building Vulkan Chopper demo on ubuntu
+vulnerability,2,Shellshock: How can I update only Bash without restarting?
+vuze,4,How do you set your Default Bittorrent Application?
+w3m,5,Use real browser instead of w3m on SSH connections
+w64codecs,1,Is it possible to play imm4-codec videos?
+wacom,10,Wacom Graphics Tablet CTH-480 / CTL-480 Not Detected In Ubuntu 13.10
+wakeonlan,5,Wake-on-lan under Ubuntu 12.04
+wakeup,11,Suspend and wake PC at certain time
+wallch,3,Wallch not changing wallpaper after upgrade to 14.04
+wallpaper,59,How do I create a desktop wallpaper slideshow?
+warning,8,How to stop gedit (and other programs) from outputting GTK warnings and the like in my terminal?
+watch-command,2,How can i watch the output that was filtered with grep?
+watchdog,1,How can I tell how long for Watchdog to wait to stop all processes?
+wav,6,How to convert wav to ogg and mp3 using VBR
+wayland,17,Why is Wayland better?
+weather,9,Is there a desktop weather app?
+web-design,24,Basic Web Development IDE/Editor like Dreamweaver?
+web-development,24,Basic Web Development IDE/Editor like Dreamweaver?
+web-feed,1,Sports score tracking software?
+webapp-development,19,How do I develop an Ubuntu application in HTML and JS?
+webapps,27,"How do I remove a website from Ubuntu's web applications?"
+webbrowser-app,2,How to zoom webpages in Browser?
+webcam,39,Can I make the webcam take a picture when an incorrect password is entered?
+webdav,9,How can I use box.com to sync my home directory across machines?
+webex,11,Webex audio not working with 11.10
+webgl,40,How To Enable WebGL In Chrome On Ubuntu?
+webkit,9,Connect WebKit WebView form to a Python callback?
+webm,5,How to fast convert mp4 to webm using ffmpeg?
+webmin,9,How can I watch the current connections on my Apache webserver?
+webp,2,"ImageMagick convert can't convert to webp"
+webserver,103,How to avoid using sudo when working in /var/www?
+websites,11,Web Server Best Practices: Directory Structure & Security
+websocket,1,Apache2 ReverseProxy for mattermost
+wget,15,Download files from a list
+whatsapp,2,Whatsapp for UBUNTU Phone and Touch
+wheel,3,How to disable mouse wheel scroll in ubuntu 11.04 or 10.10?
+white-screen,1,Ubuntu 12.04 and 13.10 freeze and white screen with nvidia gtx 660
+who,3,"About the 'who' command & it's Output on '14.04 TrustyTahr'"
+whoopsie,43,"What is the 'whoopsie' process and how can I remove it?"
+wicd,1,"""Could not connect to wicd's D-Bus interface. Check the wicd log for error messages."""
+widgets,4,Is there any alternative for Windows gadgets in Ubuntu?
+wifi-direct,18,Ubuntu as Miracast Sender/receiver
+wifi-hardware-switch,9,13.10 suspend kills wifi connection
+wii,3,Use bluetooth game controllers in kubuntu
+wildcards,2,7zip: How to exclude file types?
+windicators,1,What are windicators?
+window,22,Keyboard shortcut to move windows between monitors?
+window-buttons,19,How to switch window controls to the left (Gnome Shell)?
+window-decoration,3,Window borders missing - gtk-window-decorator segmentation fault
+window-management,37,Can I use the Unity launcher icon to minimize applications/windows?
+window-manager,55,How do I set focus follows mouse?
+window-placement,1,How to move a window if titlebar is overlapped by Ubuntu menu
+windows,154,How can I repair grub? (How to get Ubuntu back after installing Windows?)
+windows-10,23,How can I dual-boot Windows 10 and Ubuntu on a UEFI HP notebook?
+windows-7,89,Screen Resolution Problem with Ubuntu 14.04 and VirtualBox
+windows-8,29,Npm errors when installing packages on windows share
+windows-phone,8,How to connect Nokia Lumia 520 to Ubuntu 12.04
+windows-vista,3,Can I remove Windows Vista from my notebook and only install Ubuntu?
+windows-xp,63,How do I increase the hard disk size of the virtual machine?
+wine,71,How to install and configure Wine?
+winetricks,13,Installing dotnet 2.0 on 64 bit machine
+winff,1,"WinFF (FFMPEG): Unknown encoder 'libvo_aacenc'"
+wingpanel,1,Is there a way to launch Unity Dash outside of Unity?
+winusb,2,WinUSB install error Installation failed! Exit code: 512
+wired,4,How to connect to Wired internet connection through terminal?
+wireless,195,Installing Broadcom Wireless Drivers
+wireless-access-point,99,How to setup an Access Point mode Wi-Fi Hotspot?
+wireless-keyboards,2,Lenovo Bluetooth keyboard not pairing on Ubuntu 14.04
+wireshark,33,How can I capture network traffic of a single process?
+wma,3,"Can't play wma wmv or 3gp files"
+wmctrl,6,How do I permanently change window titles?
+wmv,3,"Can't play wma wmv or 3gp files"
+word-documents,4,What is the most ms Word-compatible word processor available?
+word-processor,2,Does LibreOffice Writer or any other word processor support inline equations?
+wordpress,20,Nginx failing to reload - how to track down why?
+workflow,4,What tools and techniques can I use to make GTK themes?
+workgroup,3,How to access Samba shares in Lubuntu 12.10
+workspace-switcher,5,"Can't move windows to lower or upper workspace"
+workspaces,41,Is it possible to have a different background for each workspace?
+wpa,25,How do I connect to a WPA wifi network using the command line?
+wpa-supplicant,6,Connecting to wireless networks from command line
+wpa2,5,How can I fix my WPA-EAP certificate problem?
+wps-office,5,Can Kingsoft Office be installed?
+wubi,25,Ubuntu 14.04 not booting after error message. /tmp could not be mounted
+wunderlist,2,How do I install wunderlist?
+wvdial,2,How to install wvdial without getting the following error?
+wwan,2,WWAN-modem disabeling by itself Ubuntu 14.10 Lenovo T440s Sierra Wireless EM7345 4G LTE
+www,23,"Why shouldn't /var/www have chmod 777"
+x11,17,Turn off monitor using command line
+x11-forwarding,8,What is the difference between `ssh -Y` (trusted X11 forwarding) and `ssh -X` (untrusted X11 forwarding)?
+x11rdp,4,How to install and configure X11RDP?
+x121e,9,How to get a stable WLAN-connection with a Lenovo x121e?
+x230,1,Login loop after enabling Intel Virtualization in BIOS
+x2go,1,Is there an alternative to x2goclient?
+x2goclient,1,Is there an alternative to x2goclient?
+xampp,25,How to easily start a webserver in any folder?
+xargs,1,Piping find -name to xargs results on filenames with space not being passed to the command
+xbacklight,24,How do I set default display brightness?
+xbindkeys,3,xte called from xbindkeys is not working
+xbmc,10,How do I eliminate screen tearing on 14.04 and XBMC with NVidia-331?
+xbox-360,38,How do I get an XBOX 360 controller working?
+xbox-one,2,xbox one controller crashes ubuntu
+xcalib,6,`xcalib -i -a` controls only one of two screens - can it control both?
+xchat,4,XChat disappearing after minimize to tray
+xclip,1,Processing clipboard text through a script in between copy and paste
+xcompmgr,2,How to start applications such as xcompmgr at start up?
+xdebug,1,xdebug stack as links to netbeans
+xdg,21,"What is the ""Templates"" folder in the home directory for?"
+xdg-open,7,How do I open a file from inside a bash script?
+xdmcp,4,How do I configure lightdm to work with XDMCP?
+xdmx,2,xdmx multimonitor setup
+xdotool,6,How do I permanently change window titles?
+xen,5,How do I use Xen hypervisor?
+xerox,1,Xerox WorkCentre 3615 driver issue
+xev,2,Multiple keycodes not working at the same time
+xfce,44,How do I setup dual monitors in XFCE?
+xfce-panel,15,Resetting Xfce Panels to default settings?
+xfce4,2,"Add option to ""Extend to the Left"" in XFCE4 Display Settings"
+xfce4-power-manager,4,Lubuntu: How do I autostart xfce4 power manager?
+xfce4-terminal,4,How to open terminal on Xubuntu?
+xfs,3,Ubuntu 14.04 bad taint on XFS and BTRFS
+xfwm4,3,wmctrl ignore other workspaces
+xhci-hcd,6,USB 2.0 device (scanner) does not work with xhci_hcd on USB 3.0 system
+xine,2,Xine always starts muted
+xinerama,5,Is there a simple safe way to trigger a GPU lockup on a susceptible computer?
+xinit,1,"Can't get rid of wdm"
+xinput,13,How to use trackpoint but keep touchpad disabled on Lenovo ThinkPad e531
+xkb,9,How to add a new keyboard layout (Custom keyboard layout definition)
+xkill,3,Similar to xkill for mir
+xls,3,Is there a way ideally using the command line to convert multiple .csv files to one multi-sheet .xls spreadsheet?
+xml,4,how open xml file on libreoffice
+xmodmap,25,Permanent xmodmap in Ubuntu 13.04
+xmonad,8,Anyone succeeded in Using Xmonad in Ubuntu 12.04?
+xmpp,2,Jabber server - ejabberd or jabberd2?
+xnview,1,How to install xnviewmp in ubuntu 14.04?
+xorg,110,"How to fix ""The system is running in low-graphics mode"" error?"
+xorg-edgers,1,Held broken packages (libgbm1) from Xorg-edgers PPA
+xprop,6,How do I permanently change window titles?
+xps,10,No wireless for Intel Corporation 7260 version 63
+xps-file,2,How can I open an .xps file in Evince?
+xrandr,20,How can I make xrandr customization permanent?
+xrdp,13,"I get ""Failed to load session ""ubuntu-2d"" when using XRDP"
+xsane,1,Network scanner (Canon) stops after upgrade from 15.04 to 15.10
+xscreensaver,5,Ugly lock screen in Xubuntu
+xserver,40,Ubuntu 14.04 install nVidia driver
+xte,3,xte called from xbindkeys is not working
+xterm,39,How to really clear the terminal?
+xubuntu,44,How do I setup dual monitors in XFCE?
+xulrunner,6,How do I install xulrunner?
+xvfb,2,How to use Xvfb in Ubuntu 14.04 with/without RandR?
+yahoo,1,"Getting ""account locked"" error while trying to log in Yahoo! in ""Pidgin Messenger"""
+yakuake,2,Quake-style terminal with splitting in Gnome other than Yakuake
+yed,1,How can I install yEd graph editor on Ubuntu?
+yelp,2,How to get Yelp to open the docs?
+yoga-2,35,Ubuntu on Lenovo Yoga 2 Pro
+youtube,30,How to download an MP3 track from a YouTube video
+youtube-dl,24,How to select video quality from youtube-dl?
+yubikey,5,Yubikey Two-factor Authentication Full-disk Encryption via LUKS
+yum,3,When would yum be of use to an Ubuntu user?
+yumi,1,Are there are alts to Yumi multiboot creator tool for ubuntu 12.04?
+zeitgeist,40,How can I keep recent files from appearing in Unity?
+zend,2,Where is zend-framework library?
+zenity,11,How can I create a wget GUI with multiple progress bars?
+zeroconf,3,Differences between Bonjour/Avahi/People-Nearby protocols
+zfs,7,Replacing a dead disk in a zpool
+zimbra,1,Ubuntu Upgrade Perl Version Broke ZImbra
+zip,29,How do I compress a directory?
+zlib,2,Abort class-pclzip.php : Missing zlib extensions
+zombie,27,What are zombie processes?
+zoneminder,1,how do I config a Foscam FI9821W IP camera on Firefox
+zoom,3,Scrolling and display problem (bug?) in LibreOffice 3.6 and above
+zotero,3,How to install zotero in ubuntu?
+zram,15,How do I use zRam?
+zsh,75,Moving from bash to zsh
+zsync,5,How do I update an ISO with zsync?
+zte,2,Using the ZTE MF192 HSPA USB Modem with Network Manager in Ubuntu 12.04LTS

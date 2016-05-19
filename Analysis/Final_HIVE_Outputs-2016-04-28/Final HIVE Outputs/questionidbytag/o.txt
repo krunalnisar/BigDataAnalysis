@@ -1,0 +1,15 @@
+170486,apt
+170486,software-sources
+123002,launcher
+123002,chromium
+166921,12.04
+166921,wireless
+166921,drivers
+166921,dell
+166921,broadcom
+196888,installation
+196888,apt
+196888,repository
+166263,12.04
+166263,shortcut-keys
+166263,asus
